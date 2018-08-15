@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E2DDFF2A-43FF-4D2A-88FF-82DEBABDE560}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fiskedags PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.483B86B4-043F-44D4-B901-B1D88828149E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiskedags/ViewController.cs">
+    <Files>
+      <File FileName="Fiskedags/Info.plist" />
+      <File FileName="Fiskedags/ViewController.cs" Line="48" Column="13" />
+      <File FileName="Fiskedags/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,3084 @@
+total 24
+drwxr-xr-x  10 mattias  staff   320 24 Apr 18:33 .
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:13 ..
+-rw-r--r--@  1 mattias  staff  6148 24 Apr 16:59 .DS_Store
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  15 mattias  staff   480 24 Apr 18:31 .git
+drwxr-xr-x   3 mattias  staff    96 24 Apr 18:22 .vs
+drwxr-xr-x   8 mattias  staff   256 24 Apr 16:15 ApiHandler
+drwxr-xr-x  20 mattias  staff   640 24 Apr 16:15 Fiskedags
+-rw-r--r--@  1 mattias  staff  2147  9 Mar  2017 Fiskedags.sln
+	com.apple.lastuseddate#PS	  16 
+-rw-r--r--   1 mattias  staff     0 24 Apr 18:33 kundapura.txt
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:15 packages
+
+./.git:
+total 64
+drwxr-xr-x  15 mattias  staff   480 24 Apr 18:31 .
+drwxr-xr-x  10 mattias  staff   320 24 Apr 18:33 ..
+-rw-r--r--   1 mattias  staff    64 24 Apr 16:16 COMMIT_EDITMSG
+-rw-r--r--   1 mattias  staff   101 24 Apr 18:31 FETCH_HEAD
+-rw-r--r--   1 mattias  staff    23 24 Apr 16:13 HEAD
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:13 branches
+-rw-r--r--   1 mattias  staff   337 24 Apr 16:13 config
+-rw-r--r--   1 mattias  staff    73 24 Apr 16:13 description
+drwxr-xr-x  13 mattias  staff   416 24 Apr 16:13 hooks
+-rw-r--r--   1 mattias  staff  8867 24 Apr 16:16 index
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:13 info
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:13 lfs
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 logs
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 objects
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:16 refs
+
+./.git/branches:
+total 0
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:13 .
+drwxr-xr-x  15 mattias  staff  480 24 Apr 18:31 ..
+
+./.git/hooks:
+total 96
+drwxr-xr-x  13 mattias  staff   416 24 Apr 16:13 .
+drwxr-xr-x  15 mattias  staff   480 24 Apr 18:31 ..
+-rwxr-xr-x   1 mattias  staff   478 24 Apr 16:13 applypatch-msg.sample
+-rwxr-xr-x   1 mattias  staff   896 24 Apr 16:13 commit-msg.sample
+-rwxr-xr-x   1 mattias  staff  3327 24 Apr 16:13 fsmonitor-watchman.sample
+-rwxr-xr-x   1 mattias  staff   189 24 Apr 16:13 post-update.sample
+-rwxr-xr-x   1 mattias  staff   424 24 Apr 16:13 pre-applypatch.sample
+-rwxr-xr-x   1 mattias  staff  1642 24 Apr 16:13 pre-commit.sample
+-rwxr-xr-x   1 mattias  staff  1348 24 Apr 16:13 pre-push.sample
+-rwxr-xr-x   1 mattias  staff  4898 24 Apr 16:13 pre-rebase.sample
+-rwxr-xr-x   1 mattias  staff   544 24 Apr 16:13 pre-receive.sample
+-rwxr-xr-x   1 mattias  staff  1492 24 Apr 16:13 prepare-commit-msg.sample
+-rwxr-xr-x   1 mattias  staff  3610 24 Apr 16:13 update.sample
+
+./.git/info:
+total 8
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:13 .
+drwxr-xr-x  15 mattias  staff  480 24 Apr 18:31 ..
+-rw-r--r--   1 mattias  staff  240 24 Apr 16:13 exclude
+
+./.git/lfs:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:13 .
+drwxr-xr-x  15 mattias  staff  480 24 Apr 18:31 ..
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:13 objects
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:13 tmp
+
+./.git/lfs/objects:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:13 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:13 ..
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:13 logs
+
+./.git/lfs/objects/logs:
+total 0
+drwxr-xr-x  2 mattias  staff  64 24 Apr 16:13 .
+drwxr-xr-x  3 mattias  staff  96 24 Apr 16:13 ..
+
+./.git/lfs/tmp:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:13 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:13 ..
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:13 objects
+
+./.git/lfs/tmp/objects:
+total 0
+drwxr-xr-x  2 mattias  staff  64 24 Apr 16:13 .
+drwxr-xr-x  3 mattias  staff  96 24 Apr 16:13 ..
+
+./.git/logs:
+total 8
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:16 .
+drwxr-xr-x  15 mattias  staff  480 24 Apr 18:31 ..
+-rw-r--r--   1 mattias  staff  187 24 Apr 16:16 HEAD
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:16 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:16 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:16 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 heads
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 remotes
+
+./.git/logs/refs/heads:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:16 ..
+-rw-r--r--  1 mattias  staff  187 24 Apr 16:16 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:16 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 ..
+-rw-r--r--  1 mattias  staff  159 24 Apr 16:16 master
+
+./.git/objects:
+total 0
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 .
+drwxr-xr-x  15 mattias  staff   480 24 Apr 18:31 ..
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 01
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 03
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 0b
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 14
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 1b
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 1d
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 20
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 21
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 24
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 2a
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 32
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 34
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 3f
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 48
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 4a
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 59
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 5d
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 70
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 73
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 77
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 79
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 7b
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 7c
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 91
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 94
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 9b
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 9d
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 a3
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 bb
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 bf
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 c0
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 cf
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 d0
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 db
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 dc
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 e4
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 e8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 ee
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 ef
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 f4
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 f9
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 fa
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 fc
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 fd
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:13 info
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:13 pack
+
+./.git/objects/01:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff    70 24 Apr 16:16 469696f4e68835ff6ce3103773691616fb3c79
+
+./.git/objects/03:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  6479 24 Apr 16:16 f5960b46587d83043762e4c45273a88912030d
+
+./.git/objects/0b:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  5544 24 Apr 16:16 f3816100a15d6ba0b91447e853f814d6f20916
+
+./.git/objects/14:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   459 24 Apr 16:16 74b5ff7c61b662b9f9ea4264094099a408272b
+
+./.git/objects/16:
+total 16
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   179 24 Apr 16:16 72ab45454cda92d3940ec72515e361e8779037
+-r--r--r--   1 mattias  staff   143 24 Apr 16:16 f041e853b39094f8927285e0511ea3ca98824d
+
+./.git/objects/1b:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  1525 24 Apr 16:16 8e2ca42d8f53c3db3fcdf6d6624b3d749a0f93
+
+./.git/objects/1d:
+total 16
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff    60 24 Apr 16:16 42b49d1a543f675192af39bb910c982a538824
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 5cf8a69a3ec3a98fa5e1a53a9a94d1d3237aa2
+
+./.git/objects/20:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   631 24 Apr 16:16 e9e6f0eda367ee559bfe85c1b169db31468015
+
+./.git/objects/21:
+total 24
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff   1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  10282 24 Apr 16:16 8872611a3441a27aa2f24fd53e235b6147f00e
+
+./.git/objects/24:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 9aec9bbe4ea1b08bb41b112f0f12ecfcb04f78
+
+./.git/objects/2a:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   500 24 Apr 16:16 5dc748b709c74e8a7974b52ab1a36fa238e1a0
+
+./.git/objects/32:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  6827 24 Apr 16:16 c065027b2869db3a63d1137ca4dc37f3e23de4
+
+./.git/objects/34:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  7890 24 Apr 16:16 e968238373d0b01c22a13a1118ef28c15b70ec
+
+./.git/objects/3f:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   484 24 Apr 16:16 2c09de0ebd818e3c9fdc155e3b00e8cb8bb5d8
+
+./.git/objects/48:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   127 24 Apr 16:16 cdef61684baa3001c4ab5ce35dbcc977023b3d
+
+./.git/objects/4a:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   162 24 Apr 16:16 81c44da2ff6b36a2d22432c1b80cc45d6bbb21
+
+./.git/objects/59:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  5885 24 Apr 16:16 1c509c1287944d617329158dc929eba611395f
+
+./.git/objects/5d:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  2327 24 Apr 16:16 7d990ae9460a4e2159212b8c2d6cac2163a297
+
+./.git/objects/70:
+total 24
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   642 24 Apr 16:16 055bb89e1a8997dcb45612fa0c6816e533e0e7
+-r--r--r--   1 mattias  staff  6786 24 Apr 16:16 845617f7c1ebd2c2609a060e41927191259278
+
+./.git/objects/73:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   216 24 Apr 16:16 06da10b1f35fb8facaff860fb39e18f7745a22
+
+./.git/objects/77:
+total 224
+drwxr-xr-x   4 mattias  staff     128 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff    1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  109416 24 Apr 16:16 90721a4aa3e41f3466de9f0a46cb4455261195
+-r--r--r--   1 mattias  staff    2960 24 Apr 16:16 f6c93429a8bfa3ded15d223117dc5171a420f2
+
+./.git/objects/79:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   481 24 Apr 16:16 ea7b2dd26e1ce6571a8d580605ba2321ad0d4e
+
+./.git/objects/7b:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   214 24 Apr 16:16 e42d9b21490c2a61c8a9e1ca07ca561dbc45ff
+
+./.git/objects/7c:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  5884 24 Apr 16:16 eed685735f6453bed3586e72a2b64b6a3f3bfa
+
+./.git/objects/91:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 f4c418dad79db49a43426b2ef91704b71c5b8f
+
+./.git/objects/94:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  6812 24 Apr 16:16 da654d3edde9eb27e10149dbd61bc8ed0725d6
+
+./.git/objects/9b:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   563 24 Apr 16:16 82e33f10aa11b4090e555609a72fc5ce07102a
+
+./.git/objects/9d:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   213 24 Apr 16:16 8c50446a83ef9281a87fafc92ea538112c9f59
+
+./.git/objects/a3:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   160 24 Apr 16:16 dec6a16932f2ba2135e85deb17d6edab301a97
+
+./.git/objects/bb:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff    94 24 Apr 16:16 5c26309bb35d45ffea8162a8007d62ec0c0e94
+
+./.git/objects/bf:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 d8c1f106965071cdbebc1d0678b8137e2c2302
+
+./.git/objects/c0:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  7841 24 Apr 16:16 f9c8372894c931126d7d95cb0bc3c08f7ad172
+
+./.git/objects/cf:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  3408 24 Apr 16:16 543e7bb740c4b887d190eecab1eaeba5871d15
+
+./.git/objects/d0:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   480 24 Apr 16:16 9eaa521ac0996b977cc9907b958e9f1a104072
+
+./.git/objects/db:
+total 16
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 67f120ec5e34b89268438036da2fb8d431f003
+-r--r--r--   1 mattias  staff   159 24 Apr 16:16 aab7365df24bed3e291c15813a3a9e267bb7ba
+
+./.git/objects/dc:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  1335 24 Apr 16:16 a697466399d6ca29f3cda10787f90d90d096a9
+
+./.git/objects/e4:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  1152 24 Apr 16:16 f584d8fe7d14e96f90f3d00e43f810a227cc63
+
+./.git/objects/e8:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   320 24 Apr 16:16 6f63f3ca1a8396f99d0a6c8f81ae1216f064a9
+
+./.git/objects/ee:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   484 24 Apr 16:16 ee5a6211dfd9490c0c15347c068ec85f981494
+
+./.git/objects/ef:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  3237 24 Apr 16:16 d0e007946653dc2c9b139c5e746e713e92b232
+
+./.git/objects/f4:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   212 24 Apr 16:16 ff7286b1eabb949b94488a713b869bbd856125
+
+./.git/objects/f9:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  3647 24 Apr 16:16 d9d2b9f08685ebe2c395dbd4aac6860dfb6f5a
+
+./.git/objects/fa:
+total 24
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  8822 24 Apr 16:16 48bdf4eafaa96e4f5c51fbb7ab2fa288e35383
+
+./.git/objects/fc:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff   479 24 Apr 16:16 3255447f51b72d7a8a176ba7d0a8c564b41be9
+
+./.git/objects/fd:
+total 16
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:16 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+-r--r--r--   1 mattias  staff  5895 24 Apr 16:16 21e9a31d39f9da2c86242f9d60572e6e99f0fd
+
+./.git/objects/info:
+total 0
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:13 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+
+./.git/objects/pack:
+total 0
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:13 .
+drwxr-xr-x  49 mattias  staff  1568 24 Apr 16:16 ..
+
+./.git/refs:
+total 0
+drwxr-xr-x   5 mattias  staff  160 24 Apr 16:16 .
+drwxr-xr-x  15 mattias  staff  480 24 Apr 18:31 ..
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:16 heads
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:16 remotes
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:13 tags
+
+./.git/refs/heads:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:16 ..
+-rw-r--r--  1 mattias  staff   41 24 Apr 16:16 master
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:16 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:16 origin
+
+./.git/refs/remotes/origin:
+total 8
+drwxr-xr-x  3 mattias  staff  96 24 Apr 16:16 .
+drwxr-xr-x  3 mattias  staff  96 24 Apr 16:16 ..
+-rw-r--r--  1 mattias  staff  41 24 Apr 16:16 master
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:13 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:16 ..
+
+./.vs:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:22 .
+drwxr-xr-x  10 mattias  staff  320 24 Apr 18:33 ..
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:22 Fiskedags
+
+./.vs/Fiskedags:
+total 0
+drwxr-xr-x  3 mattias  staff  96 24 Apr 18:22 .
+drwxr-xr-x  3 mattias  staff  96 24 Apr 18:22 ..
+drwxr-xr-x  3 mattias  staff  96 24 Apr 18:22 xs
+
+./.vs/Fiskedags/xs:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:22 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:22 ..
+-rw-r--r--  1 mattias  staff  966 24 Apr 18:27 UserPrefs.xml
+
+./ApiHandler:
+total 24
+drwxr-xr-x   8 mattias  staff   256 24 Apr 16:15 .
+drwxr-xr-x  10 mattias  staff   320 24 Apr 18:33 ..
+-rw-r--r--   1 mattias  staff  1529  9 Mar  2017 ApiHandler.csproj
+-rw-r--r--   1 mattias  staff   288  9 Mar  2017 ApiHandler.csproj.user
+-rw-r--r--   1 mattias  staff    97  9 Mar  2017 MyClass.cs
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:05 Properties
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:05 bin
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:05 obj
+
+./ApiHandler/Properties:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:05 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:15 ..
+-rw-r--r--  1 mattias  staff  996  9 Mar  2017 AssemblyInfo.cs
+
+./ApiHandler/bin:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:15 ..
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:05 Debug
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:05 Release
+
+./ApiHandler/bin/Debug:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:05 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 ..
+
+./ApiHandler/bin/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:05 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 ..
+
+./ApiHandler/obj:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:15 ..
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 Debug
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 Release
+
+./ApiHandler/obj/Debug:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 ..
+
+./ApiHandler/obj/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:05 ..
+
+./Fiskedags:
+total 184
+drwxr-xr-x  20 mattias  staff    640 24 Apr 16:15 .
+drwxr-xr-x  10 mattias  staff    320 24 Apr 18:33 ..
+-rw-r--r--@  1 mattias  staff   6148 10 Mar  2017 .DS_Store
+	com.apple.FinderInfo	   32 
+drwxr-xr-x  13 mattias  staff    416 24 Apr 16:05 .git
+-rw-r--r--   1 mattias  staff   2135  9 Mar  2017 AppDelegate.cs
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 Assets.xcassets
+-rw-r--r--   1 mattias  staff    192  9 Mar  2017 Entitlements.plist
+-rw-r--r--   1 mattias  staff   5774 10 Mar  2017 Fiskedags.csproj
+-rw-r--r--@  1 mattias  staff   1093 24 Apr 18:26 Info.plist
+	com.apple.metadata:kMDLabel_2uhozcazspsvmz5c6ear5bwjd4	   89 
+	com.apple.xcode.PlistType	   53 
+-rw-r--r--   1 mattias  staff   1420  9 Mar  2017 LaunchScreen.storyboard
+-rw-r--r--   1 mattias  staff    333  9 Mar  2017 Main.cs
+-rw-r--r--   1 mattias  staff   8311 10 Mar  2017 Main.storyboard
+drwxr-xr-x   2 mattias  staff     64 24 Apr 16:06 Resources
+-rwxr-xr-x   1 mattias  staff  30655  9 Mar  2017 Solunar.cs
+-rw-r--r--   1 mattias  staff   2193  9 Mar  2017 ViewController.cs
+-rw-r--r--   1 mattias  staff   2180 24 Apr 16:06 ViewController.designer.cs
+drwxr-xr-x   5 mattias  staff    160 24 Apr 18:19 bin
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 img
+drwxr-xr-x   5 mattias  staff    160 24 Apr 18:19 obj
+-rw-r--r--   1 mattias  staff    152  9 Mar  2017 packages.config
+
+./Fiskedags/.git:
+total 120
+drwxr-xr-x   13 mattias  staff    416 24 Apr 16:05 .
+drwxr-xr-x   20 mattias  staff    640 24 Apr 16:15 ..
+-rw-r--r--    1 mattias  staff     23 20 Mar  2017 COMMIT_EDITMSG
+-rw-r--r--    1 mattias  staff      0 20 Mar  2017 FETCH_HEAD
+-rw-r--r--    1 mattias  staff     23 20 Mar  2017 HEAD
+-rw-r--r--    1 mattias  staff    258 20 Mar  2017 config
+-rw-r--r--    1 mattias  staff     73 20 Mar  2017 description
+drwxr-xr-x   12 mattias  staff    384 24 Apr 16:06 hooks
+-rw-r--r--    1 mattias  staff  42511 20 Mar  2017 index
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 info
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 logs
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 objects
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 refs
+
+./Fiskedags/.git/hooks:
+total 88
+drwxr-xr-x  12 mattias  staff   384 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff   416 24 Apr 16:05 ..
+-rwxr-xr-x   1 mattias  staff   478 20 Mar  2017 applypatch-msg.sample
+-rwxr-xr-x   1 mattias  staff   896 20 Mar  2017 commit-msg.sample
+-rwxr-xr-x   1 mattias  staff   189 20 Mar  2017 post-update.sample
+-rwxr-xr-x   1 mattias  staff   424 20 Mar  2017 pre-applypatch.sample
+-rwxr-xr-x   1 mattias  staff  1642 20 Mar  2017 pre-commit.sample
+-rwxr-xr-x   1 mattias  staff  1348 20 Mar  2017 pre-push.sample
+-rwxr-xr-x   1 mattias  staff  4951 20 Mar  2017 pre-rebase.sample
+-rw-r--r--   1 mattias  staff   544 20 Mar  2017 pre-receive.sample
+-rwxr-xr-x   1 mattias  staff  1239 20 Mar  2017 prepare-commit-msg.sample
+-rwxr-xr-x   1 mattias  staff  3610 20 Mar  2017 update.sample
+
+./Fiskedags/.git/info:
+total 8
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff  416 24 Apr 16:05 ..
+-rw-r--r--   1 mattias  staff  240 20 Mar  2017 exclude
+
+./Fiskedags/.git/logs:
+total 8
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff  416 24 Apr 16:05 ..
+-rw-r--r--   1 mattias  staff  163 20 Mar  2017 HEAD
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 refs
+
+./Fiskedags/.git/logs/refs:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 heads
+
+./Fiskedags/.git/logs/refs/heads:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  163 20 Mar  2017 master
+
+./Fiskedags/.git/objects:
+total 0
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 .
+drwxr-xr-x   13 mattias  staff   416 24 Apr 16:05 ..
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 06
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 09
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 0a
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 0b
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 0c
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 0d
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 0f
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 11
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 15
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 17
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 19
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 1c
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 1f
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 20
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 22
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 23
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 28
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 29
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 2a
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 2b
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 2c
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 2d
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 2e
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 31
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 32
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 34
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 35
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 39
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 3c
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 3f
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 40
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 41
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 42
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 43
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 46
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 48
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 49
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 4b
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 4c
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 4e
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 4f
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 51
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 52
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 55
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 56
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 58
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 5a
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 5c
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 5f
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 60
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 65
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 69
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 6b
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 6c
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 6f
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 70
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 71
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 73
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 74
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 75
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 76
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 78
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 79
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 7b
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 7c
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 7d
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 7f
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 80
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 86
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 87
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 8a
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 8b
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 90
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 91
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 92
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 93
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 94
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 95
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 96
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 97
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 98
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 9a
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 9c
+drwxr-xr-x    7 mattias  staff   224 24 Apr 16:06 9d
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 9e
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 9f
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 a3
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 a4
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 a6
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 a8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 aa
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ab
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ac
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ad
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 af
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 b2
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 b3
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 b6
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 ba
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 bc
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 bd
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 c1
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 c4
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 c5
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 c6
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 c7
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 c8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 c9
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 cc
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 cd
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 d1
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 d2
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 d5
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 d7
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 d8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 da
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 dc
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 dd
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 e0
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 e4
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 e6
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 e7
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 e8
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 eb
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ec
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 ed
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ee
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 ef
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 f4
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 f5
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 f7
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 f9
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 fa
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 fe
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 ff
+drwxr-xr-x    2 mattias  staff    64 24 Apr 16:06 info
+drwxr-xr-x    2 mattias  staff    64 24 Apr 16:06 pack
+
+./Fiskedags/.git/objects/06:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    40 20 Mar  2017 8148266e021a20d952b43ecb8158ccc9c54e93
+-rw-r--r--    1 mattias  staff  1104 20 Mar  2017 96ede9eded7a384902a7768bd1d6266dea7cea
+
+./Fiskedags/.git/objects/09:
+total 3200
+drwxr-xr-x    3 mattias  staff       96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1636494 20 Mar  2017 ef51ccf978a95221fd84dae08d0b35cf40b2f4
+
+./Fiskedags/.git/objects/0a:
+total 2632
+drwxr-xr-x    3 mattias  staff       96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1346983 20 Mar  2017 942b877946dec88c417f79d326416f042f3a17
+
+./Fiskedags/.git/objects/0b:
+total 24
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  8376 20 Mar  2017 220c1a6fd2c7cf9468003f625979253c79d4a9
+
+./Fiskedags/.git/objects/0c:
+total 304
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     165 20 Mar  2017 67376ebacb410fd873cac1d8d8dd431b262c02
+-rw-r--r--    1 mattias  staff  150172 20 Mar  2017 dff53a86bb5f0f34302754a89b00a66553c9fb
+
+./Fiskedags/.git/objects/0d:
+total 936
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  477816 20 Mar  2017 aa22c22c03278c418ed85e83d7637c56233867
+
+./Fiskedags/.git/objects/0f:
+total 1168
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    2981 20 Mar  2017 76db357a182ce3baafb7a9af0770d53738e046
+-rw-r--r--    1 mattias  staff  591122 20 Mar  2017 abd41c90abbea332d261df6a11d97133e77351
+
+./Fiskedags/.git/objects/11:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  2264 20 Mar  2017 22134e0eeaa2a033c59e65697d2404a3cc15ee
+-rw-r--r--    1 mattias  staff   495 20 Mar  2017 39a96ff0740d539c5f3a4ddac41147d436da4f
+
+./Fiskedags/.git/objects/15:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   238 20 Mar  2017 1abb79f4b2d9b2002a5d5dc6d746037927a45e
+
+./Fiskedags/.git/objects/17:
+total 136
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  65698 20 Mar  2017 5da609373b2198cbbc6ca80eef7b4671833845
+
+./Fiskedags/.git/objects/19:
+total 376
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  187632 20 Mar  2017 63dea728b86834feeb29c6c07d3cf82b0c3127
+-rw-r--r--    1 mattias  staff     995 20 Mar  2017 70982e451a8df77a5b4ffe96f2b6ab8ddb51ae
+
+./Fiskedags/.git/objects/1c:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   461 20 Mar  2017 e08648118e71f38537acf9247146098b175e5a
+
+./Fiskedags/.git/objects/1f:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   662 20 Mar  2017 f027da07b1122348d5b36addf6226038303ac5
+
+./Fiskedags/.git/objects/20:
+total 464
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  233661 20 Mar  2017 11f076c18fd567b7192a15efb64908b3c3ad6d
+
+./Fiskedags/.git/objects/22:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    82 20 Mar  2017 936ee5c8fd455d9a7b7e9cad6889fa4d4a4f1f
+
+./Fiskedags/.git/objects/23:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   260 20 Mar  2017 763e552f3feb9e90c6b0129669dadcaad9b786
+
+./Fiskedags/.git/objects/28:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    90 20 Mar  2017 9177513cb2d331a02deab2b9483f26116abdfb
+
+./Fiskedags/.git/objects/29:
+total 200
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    153 20 Mar  2017 112b800b3e7ccb1fd1f007679fa2e65d987d9d
+-rw-r--r--    1 mattias  staff  96741 20 Mar  2017 225667de3f9e1ae445a86c0a9a50efa6941c82
+
+./Fiskedags/.git/objects/2a:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   579 20 Mar  2017 2b499193f886aa42ac1656e1109bab53b49b4b
+
+./Fiskedags/.git/objects/2b:
+total 40
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  17165 20 Mar  2017 b7e3404168d6af93f330172d0a1184f05c577a
+
+./Fiskedags/.git/objects/2c:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   295 20 Mar  2017 15385cac2b8c77f3e4633111bad42f6d1ac522
+
+./Fiskedags/.git/objects/2d:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   381 20 Mar  2017 f393025db7594a618640a327b6484c4e0230c1
+
+./Fiskedags/.git/objects/2e:
+total 4840
+drwxr-xr-x    5 mattias  staff      160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  2428008 20 Mar  2017 0699f2d1491ef40841a407d8b49e49ed7b858e
+-rw-r--r--    1 mattias  staff      264 20 Mar  2017 8f2adfe79284c01a3628956c5cdf77cb4911ca
+-rw-r--r--    1 mattias  staff    43133 20 Mar  2017 cf53f6d1e86119cf909b865db8a4b726437e87
+
+./Fiskedags/.git/objects/31:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   764 20 Mar  2017 1706889008eaa86cead361a3eb876d1feafa21
+-rw-r--r--    1 mattias  staff   279 20 Mar  2017 e0abf55f4bcd8e8e5aba134b055da330faafa5
+
+./Fiskedags/.git/objects/32:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   165 20 Mar  2017 288e88f6e282c375921d17f7790833b009448f
+
+./Fiskedags/.git/objects/34:
+total 16
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  7890 20 Mar  2017 e968238373d0b01c22a13a1118ef28c15b70ec
+
+./Fiskedags/.git/objects/35:
+total 32
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  13676 20 Mar  2017 24653efcb048f8ba08a683f67bda555707d636
+
+./Fiskedags/.git/objects/39:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   209 20 Mar  2017 4b1d46f905e2ff5bae5033a4936ed6d771365f
+
+./Fiskedags/.git/objects/3c:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   264 20 Mar  2017 4d6043926d4c1e918c317f67c796ab6f9856df
+
+./Fiskedags/.git/objects/3f:
+total 4960
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     1891 20 Mar  2017 a2a2c45273d63045607ae537de4d18a66a836a
+-rw-r--r--    1 mattias  staff  2534416 20 Mar  2017 b14c63e6fbe43548080b3430823a0e3db02819
+
+./Fiskedags/.git/objects/40:
+total 7728
+drwxr-xr-x    3 mattias  staff       96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3956201 20 Mar  2017 502b59ae8fcc1bc5ad64e6a99072efa0e8becc
+
+./Fiskedags/.git/objects/41:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    77 20 Mar  2017 c380672b69adbba56fbeb2d7c100ad7680a017
+
+./Fiskedags/.git/objects/42:
+total 64
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  29152 20 Mar  2017 cf74a8ce2631c567c7d12c09451ab362396278
+
+./Fiskedags/.git/objects/43:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   304 20 Mar  2017 5667daef6c940d0a2391134e665dff2d2fdfbd
+
+./Fiskedags/.git/objects/46:
+total 3216
+drwxr-xr-x    5 mattias  staff      160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff      392 20 Mar  2017 0085f660d9bd9ce713e20123b694154aa3d4e1
+-rw-r--r--    1 mattias  staff  1635922 20 Mar  2017 1633de511534b080dae51908982172d1f9de00
+-rw-r--r--    1 mattias  staff     1124 20 Mar  2017 a486032c5164747fb2f0623346e177e8b1f52e
+
+./Fiskedags/.git/objects/48:
+total 1112
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  567310 20 Mar  2017 5890b6be3bc7e756373335b4dbd7968f7df3a2
+
+./Fiskedags/.git/objects/49:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    81 20 Mar  2017 0af9446b0d10483b5d9d81355e01d86ac17cfb
+
+./Fiskedags/.git/objects/4b:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  2832 20 Mar  2017 0cb1c34d0def03de071216b5ef53dca354817a
+-rw-r--r--    1 mattias  staff   154 20 Mar  2017 cc64b3d9624348f7325add9fc0e5d1b93587d2
+
+./Fiskedags/.git/objects/4c:
+total 104
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  47644 20 Mar  2017 16c641ab3757657d10db481999cc107f7697dd
+-rw-r--r--    1 mattias  staff     68 20 Mar  2017 af392f92c96633125f651275c96aa0d2afa44b
+
+./Fiskedags/.git/objects/4e:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   421 20 Mar  2017 646784cbaafcbf8baffb1cd5c2978c0d8619d3
+
+./Fiskedags/.git/objects/4f:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    54 20 Mar  2017 e7400d6a6025289a29785a1625797ba48e45d4
+
+./Fiskedags/.git/objects/51:
+total 6872
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3511789 20 Mar  2017 6d0f1c014736f8e689fbb60efdf12b7da250ce
+-rw-r--r--    1 mattias  staff     1815 20 Mar  2017 73b8da20bc25913f9d9246443a0ef6a0f72e97
+
+./Fiskedags/.git/objects/52:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   683 20 Mar  2017 1a3b1749cafb211235e1093a6559adaf015454
+
+./Fiskedags/.git/objects/55:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   291 20 Mar  2017 54c64d6197ecafe82a9ac247fdcc33d4e9f801
+
+./Fiskedags/.git/objects/56:
+total 24
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   154 20 Mar  2017 3a1b7e86a93358db421c9bc3f05361f9bc4022
+-rw-r--r--    1 mattias  staff  1315 20 Mar  2017 d513e127f9c41be57b1588ee21d29c424fbd8b
+-rw-r--r--    1 mattias  staff    42 20 Mar  2017 e9afdabeab99ec01a626fdac202ec087e92d0c
+
+./Fiskedags/.git/objects/58:
+total 416
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  209329 20 Mar  2017 a9c93269c53ad7ee9df96cc44513d7af3756b4
+
+./Fiskedags/.git/objects/5a:
+total 856
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  435089 20 Mar  2017 bac3801fd60e896fb854d5eb762e565c578a1f
+
+./Fiskedags/.git/objects/5c:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    47 20 Mar  2017 b9274a840b5b1a7d11aff0f8c9d11ba63b5ad5
+
+./Fiskedags/.git/objects/5f:
+total 648
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  322441 20 Mar  2017 65e77d9c21822371d6a2fc5f24522a76ce0b93
+-rw-r--r--    1 mattias  staff    4584 20 Mar  2017 6ba8d7caf571bf7bea1e8d14a893da8010da5c
+
+./Fiskedags/.git/objects/60:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   737 20 Mar  2017 c2c540309f11efd4610dcfd5e5bde562e03407
+-rw-r--r--    1 mattias  staff   137 20 Mar  2017 eee452587aca520e7f7d57160ae25e5efa9e25
+
+./Fiskedags/.git/objects/65:
+total 224
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  114499 20 Mar  2017 8344896628917bb1a91b4b845fbfba9f61506d
+
+./Fiskedags/.git/objects/69:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   900 20 Mar  2017 390877a72d8cd08a5fa427cc350f22f580d3e3
+
+./Fiskedags/.git/objects/6b:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   153 20 Mar  2017 a60a2a0dd9173239244d5fdc769560d3b4f274
+-rw-r--r--    1 mattias  staff    92 20 Mar  2017 e269ac9a08b49b150e32e0ab5d94c749fb296d
+
+./Fiskedags/.git/objects/6c:
+total 944
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  315868 20 Mar  2017 19201827fbb3f9c56b9e34d4bcc2185dbe4925
+-rw-r--r--    1 mattias  staff  162311 20 Mar  2017 efd25baba4f9763e0946041e40009f35ad7c25
+
+./Fiskedags/.git/objects/6f:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  2227 20 Mar  2017 5b554506c95513a1d7f63f829683019990b02b
+-rw-r--r--    1 mattias  staff   535 20 Mar  2017 e52cb695d4f5c922daaa07f3a9c515abeb221f
+
+./Fiskedags/.git/objects/70:
+total 256
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  128627 20 Mar  2017 2937393e4040459419f53026c9924bdb93daa7
+
+./Fiskedags/.git/objects/71:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   217 20 Mar  2017 7d29e4d13a307b8bbde3938e05f298e8d0b119
+
+./Fiskedags/.git/objects/73:
+total 24
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  8886 20 Mar  2017 14e4542218891da7c3f9463e7514225b354181
+
+./Fiskedags/.git/objects/74:
+total 80
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    151 20 Mar  2017 bbc7ac7ce45f3e829bf7a9f1aa194574c97f37
+-rw-r--r--    1 mattias  staff  36804 20 Mar  2017 d7f0e609f78823fff4fdf304018015510e387a
+
+./Fiskedags/.git/objects/75:
+total 5760
+drwxr-xr-x    3 mattias  staff       96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  2947382 20 Mar  2017 cba3174a1a65dd78efa99b095409c4f769d0a3
+
+./Fiskedags/.git/objects/76:
+total 7152
+drwxr-xr-x    3 mattias  staff       96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3659281 20 Mar  2017 747a10d8d9a50c29d8db0ed339f21eff9fe0a5
+
+./Fiskedags/.git/objects/78:
+total 16
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  4312 20 Mar  2017 efb08fa86612492a3b6d5dcf3e3557db4e567b
+
+./Fiskedags/.git/objects/79:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   737 20 Mar  2017 81a14b773c6fce6ce3968ce445ba607e5a9775
+
+./Fiskedags/.git/objects/7b:
+total 864
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  435089 20 Mar  2017 e4c983e79d96d7cc56aa9d60925744810c44f5
+-rw-r--r--    1 mattias  staff    1832 20 Mar  2017 ec3fce21c1ecb133b1e70955e8b88f77646688
+
+./Fiskedags/.git/objects/7c:
+total 2360
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1202941 20 Mar  2017 31f1f2beaf0d7eee0c4d12b7c177dbff45acf6
+-rw-r--r--    1 mattias  staff      581 20 Mar  2017 db33ba0dc9559302799c88f180df9ba13075f3
+
+./Fiskedags/.git/objects/7d:
+total 24
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  9854 20 Mar  2017 161964f83d239cd76179a401c68e4e1bc8a80e
+
+./Fiskedags/.git/objects/7f:
+total 40
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   4312 20 Mar  2017 52e03f59583cf89b637f7e4552235b7f2d115e
+-rw-r--r--    1 mattias  staff  11274 20 Mar  2017 c2f28bcffe54e98a01874b3cdcea2673ad16fb
+
+./Fiskedags/.git/objects/80:
+total 24
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  9106 20 Mar  2017 416f1d71dcf906ef2ee8f09a3b457b77f78250
+
+./Fiskedags/.git/objects/86:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   197 20 Mar  2017 2800db924916dfe9b97c4e53c56d515688abd1
+
+./Fiskedags/.git/objects/87:
+total 88
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    393 20 Mar  2017 b7f9e7920e965a30bed118059e3be8687eb64e
+-rw-r--r--    1 mattias  staff  39312 20 Mar  2017 cb8cd58b923bf58525409d2c449f1993ce918e
+
+./Fiskedags/.git/objects/8a:
+total 264
+drwxr-xr-x    5 mattias  staff    160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    655 20 Mar  2017 187a927cad177d669f3ce017a8ed833969c54d
+-rw-r--r--    1 mattias  staff  86421 20 Mar  2017 60769cd3cf45b1ef2a1c83517827036d793590
+-rw-r--r--    1 mattias  staff  40856 20 Mar  2017 bbc87dc51d095127d8c564d16742c3a027f861
+
+./Fiskedags/.git/objects/8b:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   153 20 Mar  2017 4974cf33f956ff4ac845feb3b8dc7258de0d65
+
+./Fiskedags/.git/objects/90:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   135 20 Mar  2017 ee00169c04df541c89bccad4e1b0d7f4f7c2ff
+
+./Fiskedags/.git/objects/91:
+total 792
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    4666 20 Mar  2017 2672874ca70a28f3c6816a18760caf0dc35a4f
+-rw-r--r--    1 mattias  staff  396580 20 Mar  2017 e90ee29a198d0bc693d48a22ff010be0da10f8
+
+./Fiskedags/.git/objects/92:
+total 6880
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3516753 20 Mar  2017 2663f9ba538e15c13643862f29df01b1e31093
+-rw-r--r--    1 mattias  staff       47 20 Mar  2017 b76f618b9209b19fd4ccffab3c6b695ae6a672
+
+./Fiskedags/.git/objects/93:
+total 440
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  224713 20 Mar  2017 bd040024f4fb70600ffd8ae719616a10dbf3dc
+
+./Fiskedags/.git/objects/94:
+total 1208
+drwxr-xr-x    5 mattias  staff     160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    3566 20 Mar  2017 9acdb551265ce07a8187f69f86ad8463648fef
+-rw-r--r--    1 mattias  staff     146 20 Mar  2017 aba5ade61f32c22d5c22645e1d92d397c4e5b4
+-rw-r--r--    1 mattias  staff  607172 20 Mar  2017 b665f5e7e9a1ec304f42d11d45200e94aba613
+
+./Fiskedags/.git/objects/95:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    48 20 Mar  2017 16869959d9e0cf6e748a9a60665331634500cd
+
+./Fiskedags/.git/objects/96:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    50 20 Mar  2017 267862f22edd8b839b2fc2581ea214d868d0bc
+
+./Fiskedags/.git/objects/97:
+total 168
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  84479 20 Mar  2017 0ba6f7950494fc419cda901370a05cc8c005c7
+
+./Fiskedags/.git/objects/98:
+total 1104
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  561774 20 Mar  2017 311eeb49e1fdab98b8221eb191612cb9302b24
+
+./Fiskedags/.git/objects/9a:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   165 20 Mar  2017 41f2cb91b33c655127099449c0f7903f304b2b
+-rw-r--r--    1 mattias  staff   175 20 Mar  2017 e599370b423483eb3aa8d78aac76449d69691e
+
+./Fiskedags/.git/objects/9c:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3566 20 Mar  2017 2f41f2f81685a88a9d0e7fbfe2b89512b3283f
+
+./Fiskedags/.git/objects/9d:
+total 1360
+drwxr-xr-x    7 mattias  staff     224 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  339937 20 Mar  2017 0175aa664bc8a333d577f756a52d4cbeca14d7
+-rw-r--r--    1 mattias  staff  301908 20 Mar  2017 1341635f9c3647422763d8b136e78a9e1f90b2
+-rw-r--r--    1 mattias  staff    1206 20 Mar  2017 156cb1e969b43f3ce9efdba7cd826ef5f8461e
+-rw-r--r--    1 mattias  staff      58 20 Mar  2017 750243a025d9c0b498ce10ae39cd0db24767be
+-rw-r--r--    1 mattias  staff   43125 20 Mar  2017 f624ac4c420e645154f30dfe85ddf3e5a6bd9f
+
+./Fiskedags/.git/objects/9e:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   687 20 Mar  2017 82f4a6a57e90de534990b2f55346b69f408259
+-rw-r--r--    1 mattias  staff   239 20 Mar  2017 b0888a079235f635b52d2186708de4b61381f0
+
+./Fiskedags/.git/objects/9f:
+total 888
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  453061 20 Mar  2017 557f76a6ed230ba3bf073b4fdd17df97ed16d6
+
+./Fiskedags/.git/objects/a3:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    72 20 Mar  2017 1206a17238fc2332fcd65558396c8faf1a0600
+
+./Fiskedags/.git/objects/a4:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  3774 20 Mar  2017 922f369372b2109bef399b2167a2d9d5bac3be
+-rw-r--r--    1 mattias  staff    81 20 Mar  2017 dea49ee819a1b55ead2130685736b4e0783779
+
+./Fiskedags/.git/objects/a6:
+total 120
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  57748 20 Mar  2017 f088c9f4a1d545e235d88c46c9589d1cf238b5
+
+./Fiskedags/.git/objects/a8:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1103 20 Mar  2017 a38880c774c695db03b674f798fd609591b3fa
+
+./Fiskedags/.git/objects/aa:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    58 20 Mar  2017 ee13016ad93500d65cfc079b108c8b5cfd9d45
+
+./Fiskedags/.git/objects/ab:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   790 20 Mar  2017 a80bf6586f7add263375997a5f7d8bdd49cb4a
+
+./Fiskedags/.git/objects/ac:
+total 24
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  10935 20 Mar  2017 f89ebdb3a549281901d131e11342c35b33530e
+
+./Fiskedags/.git/objects/ad:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   159 20 Mar  2017 951dbfa962c122dc7f3c3c307a5c5a21c85d89
+
+./Fiskedags/.git/objects/af:
+total 24
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   113 20 Mar  2017 5e7ee52841c55cc6ff40574cda2200ca80dd35
+-rw-r--r--    1 mattias  staff  4699 20 Mar  2017 75cc8b41ef0537bfed8b6186d1dcb36c7f8163
+
+./Fiskedags/.git/objects/b2:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   189 20 Mar  2017 e157dbe0045a7bb8efe878ca9d75b7e7cd38b7
+
+./Fiskedags/.git/objects/b3:
+total 1272
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  649501 20 Mar  2017 87ce1471942b9a2e3dfe250b31e55291949f9a
+
+./Fiskedags/.git/objects/b6:
+total 144
+drwxr-xr-x    5 mattias  staff    160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     54 20 Mar  2017 50a9fd16c7aee7ce96ff46ce66d7eaac62c28d
+-rw-r--r--    1 mattias  staff    460 20 Mar  2017 7e3c254d457b92669e06f64ea0ed6d0d265f95
+-rw-r--r--    1 mattias  staff  64692 20 Mar  2017 c802c056fc8e22fa09b3df903737630ff28037
+
+./Fiskedags/.git/objects/ba:
+total 32
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   963 20 Mar  2017 54b15bbeec6acd2cd19ec0180b8db7110b2f8a
+-rw-r--r--    1 mattias  staff  8662 20 Mar  2017 b5f4bcd31b78a7df194251a63849b9215ad97e
+
+./Fiskedags/.git/objects/bc:
+total 56
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    101 20 Mar  2017 595058b7737be865a5620f4b07ec00c1fc8ea5
+-rw-r--r--    1 mattias  staff  23655 20 Mar  2017 a7cd89752dd39b10af93ffba544c26bfcfc836
+
+./Fiskedags/.git/objects/bd:
+total 24
+drwxr-xr-x    5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    21 20 Mar  2017 04210fb49f6032c3cd79559334dbe735a998ef
+-rw-r--r--    1 mattias  staff  2831 20 Mar  2017 90ea4bffb37454f0968da86cd0d77823f3c28e
+-rw-r--r--    1 mattias  staff  1492 20 Mar  2017 ff43c0d0a5a9d98783f5b5a736dd18fbbcff0c
+
+./Fiskedags/.git/objects/c1:
+total 24
+drwxr-xr-x    3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  10285 20 Mar  2017 2e2d88e7b2614784d1c055aa01f71719f4f81a
+
+./Fiskedags/.git/objects/c4:
+total 24
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  4304 20 Mar  2017 80ccf02ab5ff80f6d1e4b4d0ae7a116a243e89
+-rw-r--r--    1 mattias  staff   125 20 Mar  2017 db7a6e65b841a45a6addd76fe2fbfc15a811c3
+
+./Fiskedags/.git/objects/c5:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   140 20 Mar  2017 5e28707407e0ec0c1d75a63dc4d470912af1b2
+-rw-r--r--    1 mattias  staff    93 20 Mar  2017 966c639518983e0de9ca9b784db58580f841e5
+
+./Fiskedags/.git/objects/c6:
+total 272
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  102128 20 Mar  2017 9185c41cf1b83f9204adbb57881ee887f959a9
+-rw-r--r--    1 mattias  staff   35229 20 Mar  2017 edd26d872a5de04d5f9af6c5bf586a06519d66
+
+./Fiskedags/.git/objects/c7:
+total 24
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  5245 20 Mar  2017 12a2355066f7524eecee415d346176cb172af5
+-rw-r--r--    1 mattias  staff   273 20 Mar  2017 d5e68a49f54007cca9a6af1973d71cdf001478
+
+./Fiskedags/.git/objects/c8:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   769 20 Mar  2017 b3951cd6956b91d2edf5f1f45850d5b71dc18a
+
+./Fiskedags/.git/objects/c9:
+total 376
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  188900 20 Mar  2017 abb0653abd67dc10fc115c089706b3b4a4c1d4
+
+./Fiskedags/.git/objects/cc:
+total 2760
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1405681 20 Mar  2017 9993ee2cc711e9d29e0a83fd0a2e24ed1fbe9f
+-rw-r--r--    1 mattias  staff      587 20 Mar  2017 d2dcb2c2e3231aee727f802d015a689455b083
+
+./Fiskedags/.git/objects/cd:
+total 320
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  162311 20 Mar  2017 6d06fa0e102418c6741d713d648f0100f12708
+
+./Fiskedags/.git/objects/d1:
+total 232
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     403 20 Mar  2017 afcaa038f27f434936fb208784c420a34b1482
+-rw-r--r--    1 mattias  staff  111543 20 Mar  2017 b03c5f54ed0292fe58f5d7138d39d28f554f7b
+
+./Fiskedags/.git/objects/d2:
+total 16
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   763 20 Mar  2017 7f503137ea84787793c3c0a3276724efcf2676
+-rw-r--r--    1 mattias  staff    62 20 Mar  2017 ad7836dd0a14341d8c46e39c09959bccae4f75
+
+./Fiskedags/.git/objects/d5:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   300 20 Mar  2017 4c3acfd71ccc46a9d81786ad37905a2b42d753
+
+./Fiskedags/.git/objects/d7:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1896 20 Mar  2017 2727e9a5cdbdc0973ef266474534eca5a4b263
+
+./Fiskedags/.git/objects/d8:
+total 232
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     102 20 Mar  2017 0f7a02bea246b027222529ce422ba89c4eccaa
+-rw-r--r--    1 mattias  staff  114498 20 Mar  2017 e5e52644cfebada2b3324cc495be2cc473c30f
+
+./Fiskedags/.git/objects/da:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    94 20 Mar  2017 c49e0fb2625ce1c2fd1998a4b4f46c963896e2
+
+./Fiskedags/.git/objects/dc:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1335 20 Mar  2017 a697466399d6ca29f3cda10787f90d90d096a9
+
+./Fiskedags/.git/objects/dd:
+total 1048
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  529486 20 Mar  2017 1cde0a23800edaf36541abfe248e8f3973e780
+-rw-r--r--    1 mattias  staff      47 20 Mar  2017 36a059e52fc833060b6ddb1dfd786156d558db
+
+./Fiskedags/.git/objects/e0:
+total 216
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  12913 20 Mar  2017 7d76356b4b1ee41382633fb80a496202a175b3
+-rw-r--r--    1 mattias  staff  91475 20 Mar  2017 e744da0b6722d896eea8238715db7ae41fc5b1
+
+./Fiskedags/.git/objects/e4:
+total 1848
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  942762 20 Mar  2017 0a3794d3835eb1548a3efc97407984ea1b0b2c
+
+./Fiskedags/.git/objects/e6:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    15 20 Mar  2017 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+./Fiskedags/.git/objects/e7:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   103 20 Mar  2017 a72caf9f857c91ef30e3b44ea12108388133b9
+
+./Fiskedags/.git/objects/e8:
+total 2600
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  1325257 20 Mar  2017 1020549b0bf297c52e5cbcba9d541442716bf3
+-rw-r--r--    1 mattias  staff      142 20 Mar  2017 b2d73c2fdbf1128b2888b999c962d89438645c
+
+./Fiskedags/.git/objects/eb:
+total 24
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  4643 20 Mar  2017 0fcf70ce87ac11d55c2cd7b2edc4eef0cdfdc7
+-rw-r--r--    1 mattias  staff   133 20 Mar  2017 ae412f9b306872f458a1214bb3546a33090873
+
+./Fiskedags/.git/objects/ec:
+total 1528
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  778291 20 Mar  2017 ef461a107c1fbe06be8a1dfd0af574d022e462
+
+./Fiskedags/.git/objects/ed:
+total 2704
+drwxr-xr-x    4 mattias  staff      128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff     4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff      654 20 Mar  2017 57d747e60c602e9863cd0b2f08d1ba932ae8fe
+-rw-r--r--    1 mattias  staff  1378199 20 Mar  2017 7a0811a96876982bfcdb5509472bf0a54f5af6
+
+./Fiskedags/.git/objects/ee:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   484 20 Mar  2017 ee5a6211dfd9490c0c15347c068ec85f981494
+
+./Fiskedags/.git/objects/ef:
+total 24
+drwxr-xr-x    4 mattias  staff   128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  4346 20 Mar  2017 bd930c5300274114a7cf0411c64f2b8fb74f55
+-rw-r--r--    1 mattias  staff   248 20 Mar  2017 ea48f7aa6d4b764bbac55b1438baa566dca395
+
+./Fiskedags/.git/objects/f4:
+total 416
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  209329 20 Mar  2017 7828f8bff750147588537fcc6fcb7607602750
+
+./Fiskedags/.git/objects/f5:
+total 1624
+drwxr-xr-x    4 mattias  staff     128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff     221 20 Mar  2017 29e08040d15830682a333b83faced99720aee5
+-rw-r--r--    1 mattias  staff  824287 20 Mar  2017 a6743f70b88bb0d3848384aa075476f8ca879e
+
+./Fiskedags/.git/objects/f7:
+total 1192
+drwxr-xr-x    3 mattias  staff      96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff    4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  609143 20 Mar  2017 85bf6945a11e83345ec0fa81e9a3396b41d657
+
+./Fiskedags/.git/objects/f9:
+total 104
+drwxr-xr-x    4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff   4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff  47751 20 Mar  2017 5c3a7b427f366aaab7b25addd272e26b896720
+-rw-r--r--    1 mattias  staff   3647 20 Mar  2017 d9d2b9f08685ebe2c395dbd4aac6860dfb6f5a
+
+./Fiskedags/.git/objects/fa:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff    48 20 Mar  2017 82f3cd2abc12465a24394d927e2d7ef7329c54
+
+./Fiskedags/.git/objects/fe:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   479 20 Mar  2017 a84a979f4cd69d53ebaa894b8c0ea87fe45777
+
+./Fiskedags/.git/objects/ff:
+total 8
+drwxr-xr-x    3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+-rw-r--r--    1 mattias  staff   326 20 Mar  2017 f5ee513af87f1fba45cf267429f561efa10ba0
+
+./Fiskedags/.git/objects/info:
+total 0
+drwxr-xr-x    2 mattias  staff    64 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+
+./Fiskedags/.git/objects/pack:
+total 0
+drwxr-xr-x    2 mattias  staff    64 24 Apr 16:06 .
+drwxr-xr-x  139 mattias  staff  4448 24 Apr 16:06 ..
+
+./Fiskedags/.git/refs:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff  416 24 Apr 16:05 ..
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 heads
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:06 tags
+
+./Fiskedags/.git/refs/heads:
+total 8
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff   41 20 Mar  2017 master
+
+./Fiskedags/.git/refs/tags:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 ..
+
+./Fiskedags/Assets.xcassets:
+total 8
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  20 mattias  staff  640 24 Apr 16:15 ..
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 AppIcon.appiconset
+-rw-r--r--   1 mattias  staff   65  9 Mar  2017 Contents.json
+
+./Fiskedags/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  2641  9 Mar  2017 Contents.json
+
+./Fiskedags/Resources:
+total 0
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  20 mattias  staff  640 24 Apr 16:15 ..
+
+./Fiskedags/bin:
+total 0
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 .
+drwxr-xr-x  20 mattias  staff  640 24 Apr 16:15 ..
+drwxr-xr-x   2 mattias  staff   64 24 Apr 18:19 Release
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 iPhone
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 iPhoneSimulator
+
+./Fiskedags/bin/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 18:19 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 18:19 ..
+
+./Fiskedags/bin/iPhone:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 ..
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 Debug
+
+./Fiskedags/bin/iPhone/Debug:
+total 184
+drwxr-xr-x  11 mattias  staff    352 24 Apr 18:28 .
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 ..
+-rwxr-xr-x   1 mattias  staff  24064 24 Apr 18:26 Fiskedags.exe
+-rw-r--r--   1 mattias  staff   8240 10 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff   9964 24 Apr 18:26 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+drwxr-xr-x   5 mattias  staff    160 24 Apr 16:06 build-iphone9.3-10.2.1
+drwxr-xr-x   3 mattias  staff     96 24 Apr 18:28 device-builds
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1:
+total 8
+drwxr-xr-x   5 mattias  staff  160 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+drwxr-xr-x@ 27 mattias  staff  864 10 Mar  2017 Fiskedags.app
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@  3 mattias  staff   96 10 Mar  2017 Fiskedags.app.dSYM
+	com.apple.FinderInfo	 32 
+-rw-r--r--   1 mattias  staff  447  9 Mar  2017 iTunesMetadata.plist
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app:
+total 48936
+drwxr-xr-x@ 27 mattias  staff      864 10 Mar  2017 .
+	com.apple.FinderInfo	     32 
+drwxr-xr-x   5 mattias  staff      160 24 Apr 16:06 ..
+drwxr-xr-x  24 mattias  staff      768  9 Mar  2017 .monotouch-64
+-rw-r--r--   1 mattias  staff      110 10 Mar  2017 .uploaded
+-rwxr-xr-x   1 mattias  staff   157088 10 Mar  2017 Fiskedags
+-rw-r--r--   1 mattias  staff     1085  9 Mar  2017 Info.plist
+drwxr-xr-x   5 mattias  staff      160  9 Mar  2017 LaunchScreen.storyboardc
+drwxr-xr-x   5 mattias  staff      160  9 Mar  2017 Main.storyboardc
+-rw-r--r--   1 mattias  staff       29 10 Mar  2017 MonoTouchDebugConfiguration.txt
+-rw-r--r--   1 mattias  staff      159  9 Mar  2017 NOTICE
+-rw-r--r--   1 mattias  staff        8  9 Mar  2017 PkgInfo
+drwxr-xr-x   3 mattias  staff       96  9 Mar  2017 Settings.bundle
+drwxr-xr-x   3 mattias  staff       96  9 Mar  2017 _CodeSignature
+-rw-r--r--   1 mattias  staff      181 10 Mar  2017 archived-expanded-entitlements.xcent
+-rw-r--r--   1 mattias  staff     7630 10 Mar  2017 embedded.mobileprovision
+-rwxr-xr-x   1 mattias  staff   211184 10 Mar  2017 libFiskedags.exe.dylib
+-rwxr-xr-x   1 mattias  staff    99712 10 Mar  2017 libPlugin.Geolocator.Abstractions.dll.dylib
+-rwxr-xr-x   1 mattias  staff   254736 10 Mar  2017 libPlugin.Geolocator.dll.dylib
+-rwxr-xr-x   1 mattias  staff   178848 10 Mar  2017 libSystem.Core.dll.dylib
+-rwxr-xr-x   1 mattias  staff  2793072 10 Mar  2017 libSystem.Xml.dll.dylib
+-rwxr-xr-x   1 mattias  staff  2209648 10 Mar  2017 libSystem.dll.dylib
+-rwxr-xr-x   1 mattias  staff  1540464 10 Mar  2017 libXamarin.iOS.dll.dylib
+-rwxr-xr-x   1 mattias  staff   969632 10 Mar  2017 libmono-profiler-log.dylib
+-rwxr-xr-x   1 mattias  staff  8383440 10 Mar  2017 libmonosgen-2.0.dylib
+-rwxr-xr-x   1 mattias  staff  6044912 10 Mar  2017 libmscorlib.dll.dylib
+-rw-r--r--   1 mattias  staff  2143312 10 Mar  2017 libxamarin-debug.dylib
+-rw-r--r--   1 mattias  staff    11948 10 Mar  2017 location-logo.jpg
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app/.monotouch-64:
+total 12384
+drwxr-xr-x  24 mattias  staff      768  9 Mar  2017 .
+drwxr-xr-x@ 27 mattias  staff      864 10 Mar  2017 ..
+	com.apple.FinderInfo	     32 
+-rw-r--r--   1 mattias  staff    30584  9 Mar  2017 Fiskedags.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff    23552  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     5600  9 Mar  2017 Plugin.Geolocator.Abstractions.arm64.aotdata
+-rw-r--r--   1 mattias  staff     8704  9 Mar  2017 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    34088  9 Mar  2017 Plugin.Geolocator.arm64.aotdata
+-rw-r--r--   1 mattias  staff    16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff    21368  9 Mar  2017 System.Core.arm64.aotdata
+-rw-r--r--   1 mattias  staff     9216  9 Mar  2017 System.Core.dll
+-rw-r--r--   1 mattias  staff     2139  9 Mar  2017 System.Core.dll.mdb
+-rw-r--r--   1 mattias  staff   660176  9 Mar  2017 System.Xml.arm64.aotdata
+-rw-r--r--   1 mattias  staff   388096  9 Mar  2017 System.Xml.dll
+-rw-r--r--   1 mattias  staff   193904  9 Mar  2017 System.Xml.dll.mdb
+-rw-r--r--   1 mattias  staff   512592  9 Mar  2017 System.arm64.aotdata
+-rw-r--r--   1 mattias  staff   473088  9 Mar  2017 System.dll
+-rw-r--r--   1 mattias  staff   196781  9 Mar  2017 System.dll.mdb
+-rw-r--r--   1 mattias  staff   313464  9 Mar  2017 Xamarin.iOS.arm64.aotdata
+-rw-r--r--   1 mattias  staff   300544  9 Mar  2017 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   102321  9 Mar  2017 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff  1357504  9 Mar  2017 mscorlib.arm64.aotdata
+-rw-r--r--   1 mattias  staff  1143808  9 Mar  2017 mscorlib.dll
+-rw-r--r--   1 mattias  staff   482955  9 Mar  2017 mscorlib.dll.mdb
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x   5 mattias  staff   160  9 Mar  2017 .
+drwxr-xr-x@ 27 mattias  staff   864 10 Mar  2017 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  1792  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--   1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--   1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app/Main.storyboardc:
+total 32
+drwxr-xr-x   5 mattias  staff   160  9 Mar  2017 .
+drwxr-xr-x@ 27 mattias  staff   864 10 Mar  2017 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  5221 10 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--   1 mattias  staff   258 10 Mar  2017 Info.plist
+-rw-r--r--   1 mattias  staff   964 10 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app/Settings.bundle:
+total 8
+drwxr-xr-x   3 mattias  staff   96  9 Mar  2017 .
+drwxr-xr-x@ 27 mattias  staff  864 10 Mar  2017 ..
+	com.apple.FinderInfo	 32 
+-rw-r--r--   1 mattias  staff  474  9 Mar  2017 Root.plist
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app/_CodeSignature:
+total 40
+drwxr-xr-x   3 mattias  staff     96  9 Mar  2017 .
+drwxr-xr-x@ 27 mattias  staff    864 10 Mar  2017 ..
+	com.apple.FinderInfo	   32 
+-rw-r--r--   1 mattias  staff  17051 10 Mar  2017 CodeResources
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app.dSYM:
+total 0
+drwxr-xr-x@ 3 mattias  staff   96 10 Mar  2017 .
+	com.apple.FinderInfo	 32 
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 ..
+drwxr-xr-x  4 mattias  staff  128 10 Mar  2017 Contents
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app.dSYM/Contents:
+total 8
+drwxr-xr-x  4 mattias  staff  128 10 Mar  2017 .
+drwxr-xr-x@ 3 mattias  staff   96 10 Mar  2017 ..
+	com.apple.FinderInfo	 32 
+-rw-r--r--  1 mattias  staff  651 10 Mar  2017 Info.plist
+drwxr-xr-x  3 mattias  staff   96 10 Mar  2017 Resources
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app.dSYM/Contents/Resources:
+total 0
+drwxr-xr-x  3 mattias  staff   96 10 Mar  2017 .
+drwxr-xr-x  4 mattias  staff  128 10 Mar  2017 ..
+drwxr-xr-x  3 mattias  staff   96 10 Mar  2017 DWARF
+
+./Fiskedags/bin/iPhone/Debug/build-iphone9.3-10.2.1/Fiskedags.app.dSYM/Contents/Resources/DWARF:
+total 256
+drwxr-xr-x  3 mattias  staff      96 10 Mar  2017 .
+drwxr-xr-x  3 mattias  staff      96 10 Mar  2017 ..
+-rw-r--r--  1 mattias  staff  127194 10 Mar  2017 Fiskedags
+
+./Fiskedags/bin/iPhone/Debug/device-builds:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:28 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+drwxr-xr-x   6 mattias  staff  192 24 Apr 18:28 iphone9.3-11.3
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3:
+total 8
+drwxr-xr-x   6 mattias  staff   192 24 Apr 18:28 .
+drwxr-xr-x   3 mattias  staff    96 24 Apr 18:28 ..
+drwxr-xr-x  47 mattias  staff  1504 24 Apr 18:32 Fiskedags.app
+drwxr-xr-x@  3 mattias  staff    96 24 Apr 18:28 Fiskedags.app.dSYM
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff   447 24 Apr 18:28 iTunesMetadata.plist
+-rw-r--r--   1 mattias  staff     0 24 Apr 18:28 mtouch.stamp
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app:
+total 63712
+drwxr-xr-x  47 mattias  staff     1504 24 Apr 18:32 .
+drwxr-xr-x   6 mattias  staff      192 24 Apr 18:28 ..
+-rwxr-xr-x   1 mattias  staff   133888 24 Apr 18:28 Fiskedags
+-rw-r--r--   1 mattias  staff    29056 24 Apr 18:28 Fiskedags.aotdata.arm64
+-rwxr-xr-x   1 mattias  staff    24064 24 Apr 18:28 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240 24 Apr 18:28 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     9964 24 Apr 18:28 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff     1052 24 Apr 18:28 Info.plist
+drwxr-xr-x   5 mattias  staff      160 24 Apr 18:28 LaunchScreen.storyboardc
+drwxr-xr-x   5 mattias  staff      160 24 Apr 18:28 Main.storyboardc
+-rw-r--r--   1 mattias  staff    80824 24 Apr 18:28 Mono.Security.aotdata.arm64
+-rw-r--r--   1 mattias  staff    94208 24 Apr 18:28 Mono.Security.dll
+-rw-r--r--   1 mattias  staff    37252 24 Apr 18:28 Mono.Security.pdb
+-rw-r--r--   1 mattias  staff       29 24 Apr 18:28 MonoTouchDebugConfiguration.txt
+-rw-r--r--   1 mattias  staff      159 24 Apr 18:28 NOTICE
+-rw-r--r--   1 mattias  staff        8 24 Apr 18:28 PkgInfo
+-rw-r--r--   1 mattias  staff     5480 24 Apr 18:28 Plugin.Geolocator.Abstractions.aotdata.arm64
+-rw-r--r--   1 mattias  staff     8704 24 Apr 18:28 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    32456 24 Apr 18:28 Plugin.Geolocator.aotdata.arm64
+-rw-r--r--   1 mattias  staff    16896 24 Apr 18:28 Plugin.Geolocator.dll
+drwxr-xr-x   3 mattias  staff       96 24 Apr 18:28 Settings.bundle
+-rw-r--r--   1 mattias  staff   639520 24 Apr 18:28 System.Xml.aotdata.arm64
+-rw-r--r--   1 mattias  staff   355328 24 Apr 18:28 System.Xml.dll
+-rw-r--r--   1 mattias  staff   172324 24 Apr 18:28 System.Xml.pdb
+-rw-r--r--   1 mattias  staff   608816 24 Apr 18:28 System.aotdata.arm64
+-rw-r--r--   1 mattias  staff   478720 24 Apr 18:28 System.dll
+-rw-r--r--   1 mattias  staff   197024 24 Apr 18:28 System.pdb
+-rw-r--r--   1 mattias  staff   282576 24 Apr 18:28 Xamarin.iOS.aotdata.arm64
+-rw-r--r--   1 mattias  staff   272896 24 Apr 18:28 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff    90115 24 Apr 18:28 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff      181 24 Apr 18:28 archived-expanded-entitlements.xcent
+-rw-r--r--   1 mattias  staff     7608 24 Apr 18:28 embedded.mobileprovision
+-rwxr-xr-x   1 mattias  staff   191808 24 Apr 18:32 libFiskedags.exe.dylib
+-rwxr-xr-x   1 mattias  staff   396656 24 Apr 18:32 libMono.Security.dll.dylib
+-rwxr-xr-x   1 mattias  staff    83456 24 Apr 18:32 libPlugin.Geolocator.Abstractions.dll.dylib
+-rwxr-xr-x   1 mattias  staff   238224 24 Apr 18:32 libPlugin.Geolocator.dll.dylib
+-rwxr-xr-x   1 mattias  staff  2676848 24 Apr 18:32 libSystem.Xml.dll.dylib
+-rwxr-xr-x   1 mattias  staff  2650880 24 Apr 18:32 libSystem.dll.dylib
+-rwxr-xr-x   1 mattias  staff  1298880 24 Apr 18:32 libXamarin.iOS.dll.dylib
+-rwxr-xr-x   1 mattias  staff  1026848 24 Apr 18:32 libmono-profiler-log.dylib
+-rwxr-xr-x   1 mattias  staff  9069280 24 Apr 18:32 libmonosgen-2.0.dylib
+-rwxr-xr-x   1 mattias  staff  6372576 24 Apr 18:32 libmscorlib.dll.dylib
+-rw-r--r--   1 mattias  staff  1863104 24 Apr 18:32 libxamarin-debug.dylib
+-rw-r--r--   1 mattias  staff    11948 10 Mar  2017 location-logo.jpg
+-rw-r--r--   1 mattias  staff  1421840 24 Apr 18:28 mscorlib.aotdata.arm64
+-rw-r--r--   1 mattias  staff  1162240 24 Apr 18:28 mscorlib.dll
+-rw-r--r--   1 mattias  staff   473220 24 Apr 18:28 mscorlib.pdb
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x   5 mattias  staff   160 24 Apr 18:28 .
+drwxr-xr-x  47 mattias  staff  1504 24 Apr 18:32 ..
+-rw-r--r--   1 mattias  staff  1790 24 Apr 18:26 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--   1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--   1 mattias  staff   832 24 Apr 18:26 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app/Main.storyboardc:
+total 32
+drwxr-xr-x   5 mattias  staff   160 24 Apr 18:28 .
+drwxr-xr-x  47 mattias  staff  1504 24 Apr 18:32 ..
+-rw-r--r--   1 mattias  staff  5343 24 Apr 18:26 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--   1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--   1 mattias  staff   964 24 Apr 18:26 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app/Settings.bundle:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 18:28 .
+drwxr-xr-x  47 mattias  staff  1504 24 Apr 18:32 ..
+-rw-r--r--   1 mattias  staff   474 24 Apr 18:28 Root.plist
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app.dSYM:
+total 0
+drwxr-xr-x@ 3 mattias  staff   96 24 Apr 18:28 .
+	com.apple.FinderInfo	 32 
+drwxr-xr-x  6 mattias  staff  192 24 Apr 18:28 ..
+drwxr-xr-x  4 mattias  staff  128 24 Apr 18:28 Contents
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app.dSYM/Contents:
+total 8
+drwxr-xr-x  4 mattias  staff  128 24 Apr 18:28 .
+drwxr-xr-x@ 3 mattias  staff   96 24 Apr 18:28 ..
+	com.apple.FinderInfo	 32 
+-rw-r--r--  1 mattias  staff  651 24 Apr 18:28 Info.plist
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:28 Resources
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app.dSYM/Contents/Resources:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:28 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 18:28 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:28 DWARF
+
+./Fiskedags/bin/iPhone/Debug/device-builds/iphone9.3-11.3/Fiskedags.app.dSYM/Contents/Resources/DWARF:
+total 224
+drwxr-xr-x  3 mattias  staff      96 24 Apr 18:28 .
+drwxr-xr-x  3 mattias  staff      96 24 Apr 18:28 ..
+-rw-r--r--  1 mattias  staff  113398 24 Apr 18:28 Fiskedags
+
+./Fiskedags/bin/iPhoneSimulator:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 ..
+drwxr-xr-x  11 mattias  staff  352 24 Apr 16:06 Debug
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:06 Release
+
+./Fiskedags/bin/iPhoneSimulator/Debug:
+total 184
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 .
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 ..
+drwxr-xr-x@ 36 mattias  staff   1152  9 Mar  2017 Fiskedags.app
+	com.apple.FinderInfo	   32 
+-rwxr-xr-x   1 mattias  staff  24064 24 Apr 16:06 Fiskedags.exe
+-rw-r--r--   1 mattias  staff   8222  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff   9948 24 Apr 16:06 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:07 device-builds
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app:
+total 98504
+drwxr-xr-x@ 36 mattias  staff      1152  9 Mar  2017 .
+	com.apple.FinderInfo	      32 
+drwxr-xr-x  11 mattias  staff       352 24 Apr 16:06 ..
+drwxr-xr-x  24 mattias  staff       768  9 Mar  2017 .monotouch-32
+drwxr-xr-x  24 mattias  staff       768  9 Mar  2017 .monotouch-64
+-rwxr-xr-x   1 mattias  staff   7327644 15 Nov  2016 Fiskedags
+-rwxr-xr-x   1 mattias  staff     23040  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8222  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff       937  9 Mar  2017 Info.plist
+drwxr-xr-x   5 mattias  staff       160  9 Mar  2017 LaunchScreen.storyboardc
+drwxr-xr-x   5 mattias  staff       160  9 Mar  2017 Main.storyboardc
+-rwxr-xr-x   1 mattias  staff    313856 15 Nov  2016 Mono.Dynamic.Interpreter.dll
+-rw-r--r--   1 mattias  staff    142998 15 Nov  2016 Mono.Dynamic.Interpreter.dll.mdb
+-rw-r--r--   1 mattias  staff        26  9 Mar  2017 MonoTouchDebugConfiguration.txt
+-rw-r--r--   1 mattias  staff         8  9 Mar  2017 PkgInfo
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+drwxr-xr-x   3 mattias  staff        96  9 Mar  2017 Settings.bundle
+-rwxr-xr-x   1 mattias  staff    262144 15 Nov  2016 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    149034 15 Nov  2016 System.ComponentModel.Composition.dll.mdb
+-rwxr-xr-x   1 mattias  staff    816640 15 Nov  2016 System.Core.dll
+-rw-r--r--   1 mattias  staff    357640 15 Nov  2016 System.Core.dll.mdb
+-rwxr-xr-x   1 mattias  staff      4608 15 Nov  2016 System.Resources.ResourceManager.dll
+-rwxr-xr-x   1 mattias  staff     13312 15 Nov  2016 System.Runtime.dll
+-rwxr-xr-x   1 mattias  staff      5632 15 Nov  2016 System.Threading.Tasks.dll
+-rwxr-xr-x   1 mattias  staff   2566144 15 Nov  2016 System.Xml.dll
+-rw-r--r--   1 mattias  staff   1000074 15 Nov  2016 System.Xml.dll.mdb
+-rwxr-xr-x   1 mattias  staff   2122752 15 Nov  2016 System.dll
+-rw-r--r--   1 mattias  staff    928334 15 Nov  2016 System.dll.mdb
+-rwxr-xr-x   1 mattias  staff  12503552 15 Nov  2016 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   4735402 15 Nov  2016 Xamarin.iOS.dll.mdb
+-rwxr-xr-x   1 mattias  staff    631648  9 Mar  2017 libmono-profiler-log.dylib
+-rwxr-xr-x   1 mattias  staff   9333728  9 Mar  2017 libmonosgen-2.0.dylib
+-rw-r--r--   1 mattias  staff   2143200  9 Mar  2017 libxamarin-debug.dylib
+-rwxr-xr-x   1 mattias  staff   3505664 15 Nov  2016 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1439502 15 Nov  2016 mscorlib.dll.mdb
+-rw-r--r--   1 mattias  staff       407  9 Mar  2017 runtime-options.plist
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app/.monotouch-32:
+total 73896
+drwxr-xr-x  24 mattias  staff       768  9 Mar  2017 .
+drwxr-xr-x@ 36 mattias  staff      1152  9 Mar  2017 ..
+	com.apple.FinderInfo	      32 
+-rwxr-xr-x   1 mattias  staff   6861708 15 Nov  2016 Fiskedags
+-rwxr-xr-x   1 mattias  staff     23040  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8222  9 Mar  2017 Fiskedags.exe.mdb
+-rwxr-xr-x   1 mattias  staff    313856 15 Nov  2016 Mono.Dynamic.Interpreter.dll
+-rw-r--r--   1 mattias  staff    142998 15 Nov  2016 Mono.Dynamic.Interpreter.dll.mdb
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+-rwxr-xr-x   1 mattias  staff    262144 15 Nov  2016 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    149034 15 Nov  2016 System.ComponentModel.Composition.dll.mdb
+-rwxr-xr-x   1 mattias  staff    816640 15 Nov  2016 System.Core.dll
+-rw-r--r--   1 mattias  staff    357640 15 Nov  2016 System.Core.dll.mdb
+-rwxr-xr-x   1 mattias  staff      4608 15 Nov  2016 System.Resources.ResourceManager.dll
+-rwxr-xr-x   1 mattias  staff     13312 15 Nov  2016 System.Runtime.dll
+-rwxr-xr-x   1 mattias  staff      5632 15 Nov  2016 System.Threading.Tasks.dll
+-rwxr-xr-x   1 mattias  staff   2566144 15 Nov  2016 System.Xml.dll
+-rw-r--r--   1 mattias  staff   1000074 15 Nov  2016 System.Xml.dll.mdb
+-rwxr-xr-x   1 mattias  staff   2122752 15 Nov  2016 System.dll
+-rw-r--r--   1 mattias  staff    928334 15 Nov  2016 System.dll.mdb
+-rwxr-xr-x   1 mattias  staff  12503040 15 Nov  2016 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   4734425 15 Nov  2016 Xamarin.iOS.dll.mdb
+-rwxr-xr-x   1 mattias  staff   3505664 15 Nov  2016 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1439502 15 Nov  2016 mscorlib.dll.mdb
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app/.monotouch-64:
+total 74808
+drwxr-xr-x  24 mattias  staff       768  9 Mar  2017 .
+drwxr-xr-x@ 36 mattias  staff      1152  9 Mar  2017 ..
+	com.apple.FinderInfo	      32 
+-rwxr-xr-x   1 mattias  staff   7327644 15 Nov  2016 Fiskedags
+-rwxr-xr-x   1 mattias  staff     23040  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8222  9 Mar  2017 Fiskedags.exe.mdb
+-rwxr-xr-x   1 mattias  staff    313856 15 Nov  2016 Mono.Dynamic.Interpreter.dll
+-rw-r--r--   1 mattias  staff    142998 15 Nov  2016 Mono.Dynamic.Interpreter.dll.mdb
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+-rwxr-xr-x   1 mattias  staff    262144 15 Nov  2016 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    149034 15 Nov  2016 System.ComponentModel.Composition.dll.mdb
+-rwxr-xr-x   1 mattias  staff    816640 15 Nov  2016 System.Core.dll
+-rw-r--r--   1 mattias  staff    357640 15 Nov  2016 System.Core.dll.mdb
+-rwxr-xr-x   1 mattias  staff      4608 15 Nov  2016 System.Resources.ResourceManager.dll
+-rwxr-xr-x   1 mattias  staff     13312 15 Nov  2016 System.Runtime.dll
+-rwxr-xr-x   1 mattias  staff      5632 15 Nov  2016 System.Threading.Tasks.dll
+-rwxr-xr-x   1 mattias  staff   2566144 15 Nov  2016 System.Xml.dll
+-rw-r--r--   1 mattias  staff   1000074 15 Nov  2016 System.Xml.dll.mdb
+-rwxr-xr-x   1 mattias  staff   2122752 15 Nov  2016 System.dll
+-rw-r--r--   1 mattias  staff    928334 15 Nov  2016 System.dll.mdb
+-rwxr-xr-x   1 mattias  staff  12503552 15 Nov  2016 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   4735402 15 Nov  2016 Xamarin.iOS.dll.mdb
+-rwxr-xr-x   1 mattias  staff   3505664 15 Nov  2016 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1439502 15 Nov  2016 mscorlib.dll.mdb
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x   5 mattias  staff   160  9 Mar  2017 .
+drwxr-xr-x@ 36 mattias  staff  1152  9 Mar  2017 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  1791  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--   1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--   1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app/Main.storyboardc:
+total 32
+drwxr-xr-x   5 mattias  staff   160  9 Mar  2017 .
+drwxr-xr-x@ 36 mattias  staff  1152  9 Mar  2017 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  4975  9 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--   1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--   1 mattias  staff   964  9 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/bin/iPhoneSimulator/Debug/Fiskedags.app/Settings.bundle:
+total 8
+drwxr-xr-x   3 mattias  staff    96  9 Mar  2017 .
+drwxr-xr-x@ 36 mattias  staff  1152  9 Mar  2017 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff   474  9 Mar  2017 Root.plist
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:07 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 16:06 ..
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:07 iphone10.3-11.3
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3:
+total 0
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:07 .
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:07 ..
+drwxr-xr-x@ 33 mattias  staff  1056 24 Apr 16:06 Fiskedags.app
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff     0 24 Apr 16:06 mtouch.stamp
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/Fiskedags.app:
+total 82448
+drwxr-xr-x@ 33 mattias  staff      1056 24 Apr 16:06 .
+	com.apple.FinderInfo	      32 
+drwxr-xr-x   4 mattias  staff       128 24 Apr 16:07 ..
+-rwxr-xr-x   1 mattias  staff   7712612 24 Apr 16:06 Fiskedags
+-rwxr-xr-x   1 mattias  staff     24064 24 Apr 16:06 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8222  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff      9948 24 Apr 16:06 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff       895 24 Apr 16:06 Info.plist
+drwxr-xr-x   5 mattias  staff       160 24 Apr 16:06 LaunchScreen.storyboardc
+drwxr-xr-x   5 mattias  staff       160 24 Apr 16:06 Main.storyboardc
+-rw-r--r--   1 mattias  staff    308736 24 Apr 15:27 Mono.Security.dll
+-rw-r--r--   1 mattias  staff    149576 24 Apr 15:27 Mono.Security.pdb
+-rw-r--r--   1 mattias  staff        26 24 Apr 16:06 MonoTouchDebugConfiguration.txt
+-rw-r--r--   1 mattias  staff         8 24 Apr 16:06 PkgInfo
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+drwxr-xr-x   3 mattias  staff        96 24 Apr 16:06 Settings.bundle
+-rw-r--r--   1 mattias  staff    249344 24 Apr 15:27 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    102700 24 Apr 15:27 System.ComponentModel.Composition.pdb
+-rw-r--r--   1 mattias  staff   1040896 24 Apr 15:27 System.Core.dll
+-rw-r--r--   1 mattias  staff    405144 24 Apr 15:27 System.Core.pdb
+-rw-r--r--   1 mattias  staff      5120 24 Apr 15:27 System.Resources.ResourceManager.dll
+-rw-r--r--   1 mattias  staff     13312 24 Apr 15:27 System.Runtime.dll
+-rw-r--r--   1 mattias  staff      6144 24 Apr 15:27 System.Threading.Tasks.dll
+-rw-r--r--   1 mattias  staff   2416128 24 Apr 15:27 System.Xml.dll
+-rw-r--r--   1 mattias  staff    917256 24 Apr 15:27 System.Xml.pdb
+-rw-r--r--   1 mattias  staff   1993728 24 Apr 15:27 System.dll
+-rw-r--r--   1 mattias  staff    711768 24 Apr 15:27 System.pdb
+-rwxr-xr-x   1 mattias  staff  15345152 24 Apr 15:27 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   5799906 24 Apr 15:27 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff     11948 10 Mar  2017 location-logo.jpg
+-rw-r--r--   1 mattias  staff   3572224 24 Apr 15:27 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1320456 24 Apr 15:27 mscorlib.pdb
+-rw-r--r--   1 mattias  staff       359 24 Apr 16:06 runtime-options.plist
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/Fiskedags.app/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x@ 33 mattias  staff  1056 24 Apr 16:06 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  1790 24 Apr 16:06 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--   1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--   1 mattias  staff   832 24 Apr 16:06 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/Fiskedags.app/Main.storyboardc:
+total 32
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x@ 33 mattias  staff  1056 24 Apr 16:06 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  5341 24 Apr 16:06 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--   1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--   1 mattias  staff   964 24 Apr 16:06 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/bin/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/Fiskedags.app/Settings.bundle:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x@ 33 mattias  staff  1056 24 Apr 16:06 ..
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff   474 24 Apr 16:06 Root.plist
+
+./Fiskedags/bin/iPhoneSimulator/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 ..
+
+./Fiskedags/img:
+total 24
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 .
+drwxr-xr-x  20 mattias  staff    640 24 Apr 16:15 ..
+-rw-r--r--@  1 mattias  staff  11948 10 Mar  2017 location-logo.jpg
+	com.apple.quarantine	   61 
+
+./Fiskedags/obj:
+total 0
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 .
+drwxr-xr-x  20 mattias  staff  640 24 Apr 16:15 ..
+drwxr-xr-x   2 mattias  staff   64 24 Apr 18:19 Release
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 iPhone
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 iPhoneSimulator
+
+./Fiskedags/obj/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 18:19 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 18:19 ..
+
+./Fiskedags/obj/iPhone:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 ..
+drwxr-xr-x  13 mattias  staff  416 24 Apr 18:26 Debug
+
+./Fiskedags/obj/iPhone/Debug:
+total 168
+drwxr-xr-x  13 mattias  staff    416 24 Apr 18:26 .
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff      0 24 Apr 18:32 Fiskedags.csproj.CopyComplete
+-rw-r--r--   1 mattias  staff     41 24 Apr 18:26 Fiskedags.csproj.CoreCompileInputs.cache
+-rw-r--r--   1 mattias  staff   2920 24 Apr 18:26 Fiskedags.csproj.FileListAbsolute.txt
+-rw-r--r--   1 mattias  staff  27159 24 Apr 18:26 Fiskedags.csprojResolveAssemblyReference.cache
+-rwxr-xr-x   1 mattias  staff  24064 24 Apr 18:26 Fiskedags.exe
+-rw-r--r--   1 mattias  staff   8240 10 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff   9964 24 Apr 18:26 Fiskedags.pdb
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 actool
+drwxr-xr-x   9 mattias  staff    288 24 Apr 16:06 build-iphone9.3-10.2.1
+drwxr-xr-x   3 mattias  staff     96 24 Apr 18:26 device-builds
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 ibtool
+
+./Fiskedags/obj/iPhone/Debug/actool:
+total 16
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff  416 24 Apr 18:26 ..
+-rw-r--r--   1 mattias  staff  138  9 Mar  2017 _BundleResourceWithLogicalName.items
+-rw-r--r--   1 mattias  staff  255  9 Mar  2017 _PartialAppManifest.items
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1:
+total 16
+drwxr-xr-x   9 mattias  staff   288 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff   416 24 Apr 18:26 ..
+-rw-r--r--   1 mattias  staff   386 10 Mar  2017 Entitlements.xcent
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:06 actool
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:06 ibtool
+drwxr-xr-x   4 mattias  staff   128 24 Apr 16:06 ibtool-link
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:06 ibtool-manifests
+drwxr-xr-x  38 mattias  staff  1216 24 Apr 16:06 mtouch-cache
+-rw-r--r--   1 mattias  staff   206  9 Mar  2017 mtouch-symbols.list
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/actool:
+total 16
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  430  9 Mar  2017 asset-manifest.plist
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 bundle
+-rw-r--r--  1 mattias  staff  181  9 Mar  2017 partial-info.plist
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/actool/bundle:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 ..
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+drwxr-xr-x@ 5 mattias  staff  160  9 Mar  2017 LaunchScreen.storyboardc
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@ 5 mattias  staff  160 10 Mar  2017 Main.storyboardc
+	com.apple.FinderInfo	 32 
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  1792  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 10 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  5221 10 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 10 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   964 10 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool-link:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+drwxr-xr-x@ 5 mattias  staff  160  9 Mar  2017 LaunchScreen.storyboardc
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@ 5 mattias  staff  160 10 Mar  2017 Main.storyboardc
+	com.apple.FinderInfo	 32 
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool-link/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  1792  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool-link/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 10 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  5221 10 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 10 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   964 10 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/ibtool-manifests:
+total 16
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  352  9 Mar  2017 LaunchScreen.storyboardc
+-rw-r--r--  1 mattias  staff  352 10 Mar  2017 Main.storyboardc
+-rw-r--r--  1 mattias  staff    0 10 Mar  2017 link
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/mtouch-cache:
+total 127168
+drwxr-xr-x  38 mattias  staff      1216 24 Apr 16:06 .
+drwxr-xr-x   9 mattias  staff       288 24 Apr 16:06 ..
+drwxr-xr-x  16 mattias  staff       512 24 Apr 16:06 Build
+-rw-r--r--   1 mattias  staff     30584  9 Mar  2017 Fiskedags.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff    182936  9 Mar  2017 Fiskedags.exe.arm64.dylib
+-rw-r--r--   1 mattias  staff    628634  9 Mar  2017 Fiskedags.exe.arm64.s
+drwxr-xr-x  23 mattias  staff       736 24 Apr 16:06 Link
+drwxr-xr-x   2 mattias  staff        64 24 Apr 16:06 NoRes
+-rw-r--r--   1 mattias  staff      5600  9 Mar  2017 Plugin.Geolocator.Abstractions.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff     72800  9 Mar  2017 Plugin.Geolocator.Abstractions.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff    134831  9 Mar  2017 Plugin.Geolocator.Abstractions.dll.arm64.s
+-rw-r--r--   1 mattias  staff     34088  9 Mar  2017 Plugin.Geolocator.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff    225880  9 Mar  2017 Plugin.Geolocator.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff    669037  9 Mar  2017 Plugin.Geolocator.dll.arm64.s
+drwxr-xr-x  16 mattias  staff       512 24 Apr 16:06 PreBuild
+-rw-r--r--   1 mattias  staff     21368  9 Mar  2017 System.Core.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff    151000  9 Mar  2017 System.Core.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff    301923  9 Mar  2017 System.Core.dll.arm64.s
+-rw-r--r--   1 mattias  staff    660176  9 Mar  2017 System.Xml.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff   2732412  9 Mar  2017 System.Xml.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff  10765155  9 Mar  2017 System.Xml.dll.arm64.s
+-rw-r--r--   1 mattias  staff    512592  9 Mar  2017 System.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff   2156336  9 Mar  2017 System.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff   8337886  9 Mar  2017 System.dll.arm64.s
+-rw-r--r--   1 mattias  staff    313464  9 Mar  2017 Xamarin.iOS.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff   1495508  9 Mar  2017 Xamarin.iOS.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff   5917988  9 Mar  2017 Xamarin.iOS.dll.arm64.s
+-rw-r--r--   1 mattias  staff     19059 10 Mar  2017 arguments
+-rw-r--r--   1 mattias  staff       193 10 Mar  2017 entry-points.txt
+-rw-r--r--   1 mattias  staff       957 10 Mar  2017 linked-assemblies.txt
+-rw-r--r--   1 mattias  staff      2341  9 Mar  2017 main.arm64.m
+-rw-r--r--   1 mattias  staff      9144  9 Mar  2017 main.arm64.o
+-rw-r--r--   1 mattias  staff   1357504  9 Mar  2017 mscorlib.arm64.aotdata
+-rwxr-xr-x   1 mattias  staff   5943492  9 Mar  2017 mscorlib.dll.arm64.dylib
+-rw-r--r--   1 mattias  staff  22017707  9 Mar  2017 mscorlib.dll.arm64.s
+-rw-r--r--   1 mattias  staff    226112  9 Mar  2017 registrar.arm64.o
+-rw-r--r--   1 mattias  staff      1249  9 Mar  2017 registrar.h
+-rw-r--r--   1 mattias  staff    105413  9 Mar  2017 registrar.m
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/mtouch-cache/Build:
+total 6608
+drwxr-xr-x  16 mattias  staff      512 24 Apr 16:06 .
+drwxr-xr-x  38 mattias  staff     1216 24 Apr 16:06 ..
+-rwxr-xr-x   1 mattias  staff    23552  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     8704  9 Mar  2017 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff     9216  9 Mar  2017 System.Core.dll
+-rw-r--r--   1 mattias  staff     2139  9 Mar  2017 System.Core.dll.mdb
+-rw-r--r--   1 mattias  staff   388096  9 Mar  2017 System.Xml.dll
+-rw-r--r--   1 mattias  staff   193904  9 Mar  2017 System.Xml.dll.mdb
+-rw-r--r--   1 mattias  staff   473088  9 Mar  2017 System.dll
+-rw-r--r--   1 mattias  staff   196781  9 Mar  2017 System.dll.mdb
+-rw-r--r--   1 mattias  staff   300544  9 Mar  2017 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   102321  9 Mar  2017 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff  1143808  9 Mar  2017 mscorlib.dll
+-rw-r--r--   1 mattias  staff   482955  9 Mar  2017 mscorlib.dll.mdb
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/mtouch-cache/Link:
+total 60496
+drwxr-xr-x  23 mattias  staff       736 24 Apr 16:06 .
+drwxr-xr-x  38 mattias  staff      1216 24 Apr 16:06 ..
+-rwxr-xr-x   1 mattias  staff     23552  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8240  9 Mar  2017 Fiskedags.exe.mdb
+-rwxr-xr-x   1 mattias  staff    313856 15 Nov  2016 Mono.Dynamic.Interpreter.dll
+-rw-r--r--   1 mattias  staff    142998 15 Nov  2016 Mono.Dynamic.Interpreter.dll.mdb
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+-rwxr-xr-x   1 mattias  staff    262144 15 Nov  2016 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    149034 15 Nov  2016 System.ComponentModel.Composition.dll.mdb
+-rwxr-xr-x   1 mattias  staff    816640 15 Nov  2016 System.Core.dll
+-rw-r--r--   1 mattias  staff    357640 15 Nov  2016 System.Core.dll.mdb
+-rwxr-xr-x   1 mattias  staff      4608 15 Nov  2016 System.Resources.ResourceManager.dll
+-rwxr-xr-x   1 mattias  staff     13312 15 Nov  2016 System.Runtime.dll
+-rwxr-xr-x   1 mattias  staff      5632 15 Nov  2016 System.Threading.Tasks.dll
+-rwxr-xr-x   1 mattias  staff   2566144 15 Nov  2016 System.Xml.dll
+-rw-r--r--   1 mattias  staff   1000074 15 Nov  2016 System.Xml.dll.mdb
+-rwxr-xr-x   1 mattias  staff   2122752 15 Nov  2016 System.dll
+-rw-r--r--   1 mattias  staff    928334 15 Nov  2016 System.dll.mdb
+-rwxr-xr-x   1 mattias  staff  12503552 15 Nov  2016 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   4735402 15 Nov  2016 Xamarin.iOS.dll.mdb
+-rwxr-xr-x   1 mattias  staff   3505664 15 Nov  2016 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1439502 15 Nov  2016 mscorlib.dll.mdb
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/mtouch-cache/NoRes:
+total 0
+drwxr-xr-x   2 mattias  staff    64 24 Apr 16:06 .
+drwxr-xr-x  38 mattias  staff  1216 24 Apr 16:06 ..
+
+./Fiskedags/obj/iPhone/Debug/build-iphone9.3-10.2.1/mtouch-cache/PreBuild:
+total 6608
+drwxr-xr-x  16 mattias  staff      512 24 Apr 16:06 .
+drwxr-xr-x  38 mattias  staff     1216 24 Apr 16:06 ..
+-rwxr-xr-x   1 mattias  staff    23552  9 Mar  2017 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     8704 10 Mar  2017 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff     9216 10 Mar  2017 System.Core.dll
+-rw-r--r--   1 mattias  staff     2139 10 Mar  2017 System.Core.dll.mdb
+-rw-r--r--   1 mattias  staff   388096 10 Mar  2017 System.Xml.dll
+-rw-r--r--   1 mattias  staff   193904 10 Mar  2017 System.Xml.dll.mdb
+-rw-r--r--   1 mattias  staff   473088 10 Mar  2017 System.dll
+-rw-r--r--   1 mattias  staff   196781 10 Mar  2017 System.dll.mdb
+-rw-r--r--   1 mattias  staff   300544 10 Mar  2017 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   102321 10 Mar  2017 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff  1143808 10 Mar  2017 mscorlib.dll
+-rw-r--r--   1 mattias  staff   482955 10 Mar  2017 mscorlib.dll.mdb
+
+./Fiskedags/obj/iPhone/Debug/device-builds:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:26 .
+drwxr-xr-x  13 mattias  staff  416 24 Apr 18:26 ..
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 iphone9.3-11.3
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3:
+total 16
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 .
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:26 ..
+-rw-r--r--   1 mattias  staff  386 24 Apr 18:28 Entitlements.xcent
+drwxr-xr-x   8 mattias  staff  256 24 Apr 18:27 actool
+drwxr-xr-x  13 mattias  staff  416 24 Apr 18:29 codesign
+drwxr-xr-x   4 mattias  staff  128 24 Apr 18:27 coremlc
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:26 ibtool
+drwxr-xr-x   4 mattias  staff  128 24 Apr 18:27 ibtool-link
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:26 ibtool-manifests
+drwxr-xr-x  12 mattias  staff  384 24 Apr 18:28 mtouch-cache
+-rw-r--r--   1 mattias  staff   60 24 Apr 18:28 mtouch-symbols.list
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/actool:
+total 32
+drwxr-xr-x   8 mattias  staff  256 24 Apr 18:27 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+-rw-r--r--   1 mattias  staff  138 24 Apr 18:26 _BundleResourceWithLogicalName.items
+-rw-r--r--   1 mattias  staff  261 24 Apr 18:26 _PartialAppManifest.items
+-rw-r--r--   1 mattias  staff  444 24 Apr 18:26 asset-manifest.plist
+drwxr-xr-x   2 mattias  staff   64 24 Apr 18:27 bundle
+drwxr-xr-x   3 mattias  staff   96 24 Apr 18:27 cloned-assets
+-rw-r--r--   1 mattias  staff  181 24 Apr 18:26 partial-info.plist
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/actool/bundle:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 18:27 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 18:27 ..
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/actool/cloned-assets:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:27 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 18:27 ..
+drwxr-xr-x  4 mattias  staff  128 24 Apr 18:27 Assets.xcassets
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/actool/cloned-assets/Assets.xcassets:
+total 8
+drwxr-xr-x  4 mattias  staff  128 24 Apr 18:27 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:27 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 18:27 AppIcon.appiconset
+-rw-r--r--  1 mattias  staff   65  9 Mar  2017 Contents.json
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 mattias  staff    96 24 Apr 18:27 .
+drwxr-xr-x  4 mattias  staff   128 24 Apr 18:27 ..
+-rw-r--r--  1 mattias  staff  2641  9 Mar  2017 Contents.json
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/codesign:
+total 0
+drwxr-xr-x  13 mattias  staff  416 24 Apr 18:29 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libFiskedags.exe.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libMono.Security.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libPlugin.Geolocator.Abstractions.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libPlugin.Geolocator.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libSystem.Xml.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libSystem.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libXamarin.iOS.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libmono-profiler-log.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libmonosgen-2.0.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libmscorlib.dll.dylib
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:32 libxamarin-debug.dylib
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/coremlc:
+total 16
+drwxr-xr-x   4 mattias  staff  128 24 Apr 18:27 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+-rw-r--r--   1 mattias  staff  138 24 Apr 18:26 _BundleResourceWithLogicalName.items
+-rw-r--r--   1 mattias  staff  138 24 Apr 18:26 _PartialAppManifest.items
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool:
+total 8
+drwxr-xr-x   5 mattias  staff   160 24 Apr 18:26 .
+drwxr-xr-x  11 mattias  staff   352 24 Apr 18:28 ..
+drwxr-xr-x@  5 mattias  staff   160 24 Apr 18:26 LaunchScreen.storyboardc
+	com.apple.FinderInfo	  32 
+drwxr-xr-x@  5 mattias  staff   160 24 Apr 18:26 Main.storyboardc
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  2685 24 Apr 18:26 _BundleResourceWithLogicalName.items
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 18:26 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 18:26 ..
+-rw-r--r--  1 mattias  staff  1790 24 Apr 18:26 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--  1 mattias  staff   832 24 Apr 18:26 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 18:26 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 18:26 ..
+-rw-r--r--  1 mattias  staff  5343 24 Apr 18:26 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--  1 mattias  staff   964 24 Apr 18:26 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool-link:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 18:27 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+drwxr-xr-x@  5 mattias  staff  160 24 Apr 18:26 LaunchScreen.storyboardc
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@  5 mattias  staff  160 24 Apr 18:26 Main.storyboardc
+	com.apple.FinderInfo	 32 
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool-link/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 18:26 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 18:27 ..
+-rw-r--r--  1 mattias  staff  1790 24 Apr 18:26 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--  1 mattias  staff   832 24 Apr 18:26 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool-link/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 18:26 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 18:27 ..
+-rw-r--r--  1 mattias  staff  5343 24 Apr 18:26 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 18:26 Info.plist
+-rw-r--r--  1 mattias  staff   964 24 Apr 18:26 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/ibtool-manifests:
+total 16
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:26 .
+drwxr-xr-x  11 mattias  staff  352 24 Apr 18:28 ..
+-rw-r--r--   1 mattias  staff  352 24 Apr 18:26 LaunchScreen.storyboardc
+-rw-r--r--   1 mattias  staff  352 24 Apr 18:26 Main.storyboardc
+-rw-r--r--   1 mattias  staff    0 24 Apr 18:26 link
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/mtouch-cache:
+total 224
+drwxr-xr-x  12 mattias  staff    384 24 Apr 18:28 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 18:28 ..
+drwxr-xr-x  17 mattias  staff    544 24 Apr 18:28 Build
+drwxr-xr-x  24 mattias  staff    768 24 Apr 18:28 Link
+drwxr-xr-x  17 mattias  staff    544 24 Apr 18:28 PreBuild
+-rw-r--r--   1 mattias  staff  19355 24 Apr 18:28 arguments
+drwxr-xr-x  37 mattias  staff   1184 24 Apr 18:28 arm64
+-rw-r--r--   1 mattias  staff   1401 24 Apr 18:28 assembly-references.txt
+-rw-r--r--   1 mattias  staff   1726 24 Apr 18:28 entry-points.txt
+-rw-r--r--   1 mattias  staff   1968 24 Apr 18:28 linked-assemblies.txt
+-rw-r--r--   1 mattias  staff   2445 24 Apr 18:28 registrar.h
+-rw-r--r--   1 mattias  staff  76448 24 Apr 18:28 registrar.m
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/mtouch-cache/Build:
+total 6712
+drwxr-xr-x  17 mattias  staff      544 24 Apr 18:28 .
+drwxr-xr-x  12 mattias  staff      384 24 Apr 18:28 ..
+-rwxr-xr-x   1 mattias  staff    24064 24 Apr 18:28 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240 24 Apr 18:28 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     9964 24 Apr 18:28 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff    94208 24 Apr 18:28 Mono.Security.dll
+-rw-r--r--   1 mattias  staff    37252 24 Apr 18:28 Mono.Security.pdb
+-rw-r--r--   1 mattias  staff     8704 24 Apr 18:28 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    16896 24 Apr 18:28 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   355328 24 Apr 18:28 System.Xml.dll
+-rw-r--r--   1 mattias  staff   172324 24 Apr 18:28 System.Xml.pdb
+-rw-r--r--   1 mattias  staff   478720 24 Apr 18:28 System.dll
+-rw-r--r--   1 mattias  staff   197024 24 Apr 18:28 System.pdb
+-rw-r--r--   1 mattias  staff   272896 24 Apr 18:28 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff    90115 24 Apr 18:28 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff  1162240 24 Apr 18:28 mscorlib.dll
+-rw-r--r--   1 mattias  staff   473220 24 Apr 18:28 mscorlib.pdb
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/mtouch-cache/Link:
+total 67328
+drwxr-xr-x  24 mattias  staff       768 24 Apr 18:28 .
+drwxr-xr-x  12 mattias  staff       384 24 Apr 18:28 ..
+-rwxr-xr-x   1 mattias  staff     24064 24 Apr 18:26 Fiskedags.exe
+-rw-r--r--   1 mattias  staff      8240 10 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff      9964 24 Apr 18:26 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff    308736 24 Apr 15:27 Mono.Security.dll
+-rw-r--r--   1 mattias  staff    149576 24 Apr 15:27 Mono.Security.pdb
+-rw-r--r--   1 mattias  staff      9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff     16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff    249344 24 Apr 15:27 System.ComponentModel.Composition.dll
+-rw-r--r--   1 mattias  staff    102700 24 Apr 15:27 System.ComponentModel.Composition.pdb
+-rw-r--r--   1 mattias  staff   1040896 24 Apr 15:27 System.Core.dll
+-rw-r--r--   1 mattias  staff    405144 24 Apr 15:27 System.Core.pdb
+-rw-r--r--   1 mattias  staff      5120 24 Apr 15:27 System.Resources.ResourceManager.dll
+-rw-r--r--   1 mattias  staff     13312 24 Apr 15:27 System.Runtime.dll
+-rw-r--r--   1 mattias  staff      6144 24 Apr 15:27 System.Threading.Tasks.dll
+-rw-r--r--   1 mattias  staff   2416128 24 Apr 15:27 System.Xml.dll
+-rw-r--r--   1 mattias  staff    917256 24 Apr 15:27 System.Xml.pdb
+-rw-r--r--   1 mattias  staff   1993728 24 Apr 15:27 System.dll
+-rw-r--r--   1 mattias  staff    711768 24 Apr 15:27 System.pdb
+-rwxr-xr-x   1 mattias  staff  15345152 24 Apr 15:27 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff   5799906 24 Apr 15:27 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff   3572224 24 Apr 15:27 mscorlib.dll
+-rw-r--r--   1 mattias  staff   1320456 24 Apr 15:27 mscorlib.pdb
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/mtouch-cache/PreBuild:
+total 6712
+drwxr-xr-x  17 mattias  staff      544 24 Apr 18:28 .
+drwxr-xr-x  12 mattias  staff      384 24 Apr 18:28 ..
+-rwxr-xr-x   1 mattias  staff    24064 24 Apr 18:28 Fiskedags.exe
+-rw-r--r--   1 mattias  staff     8240 24 Apr 18:28 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff     9964 24 Apr 18:28 Fiskedags.pdb
+-rw-r--r--   1 mattias  staff    94208 24 Apr 18:28 Mono.Security.dll
+-rw-r--r--   1 mattias  staff    37252 24 Apr 18:28 Mono.Security.pdb
+-rw-r--r--   1 mattias  staff     8704 24 Apr 18:28 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff    16896 24 Apr 18:28 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   355328 24 Apr 18:28 System.Xml.dll
+-rw-r--r--   1 mattias  staff   172324 24 Apr 18:28 System.Xml.pdb
+-rw-r--r--   1 mattias  staff   478720 24 Apr 18:28 System.dll
+-rw-r--r--   1 mattias  staff   197024 24 Apr 18:28 System.pdb
+-rw-r--r--   1 mattias  staff   272896 24 Apr 18:28 Xamarin.iOS.dll
+-rw-r--r--   1 mattias  staff    90115 24 Apr 18:28 Xamarin.iOS.dll.mdb
+-rw-r--r--   1 mattias  staff  1162240 24 Apr 18:28 mscorlib.dll
+-rw-r--r--   1 mattias  staff   473220 24 Apr 18:28 mscorlib.pdb
+
+./Fiskedags/obj/iPhone/Debug/device-builds/iphone9.3-11.3/mtouch-cache/arm64:
+total 166792
+drwxr-xr-x  37 mattias  staff      1184 24 Apr 18:28 .
+drwxr-xr-x  12 mattias  staff       384 24 Apr 18:28 ..
+-rw-r--r--   1 mattias  staff     29056 24 Apr 18:28 Fiskedags.aotdata.arm64
+-rw-r--r--   1 mattias  staff    155780 24 Apr 18:28 Fiskedags.exe.o
+-rw-r--r--   1 mattias  staff    610624 24 Apr 18:28 Fiskedags.exe.s
+-rw-r--r--   1 mattias  staff     80824 24 Apr 18:28 Mono.Security.aotdata.arm64
+-rw-r--r--   1 mattias  staff    397856 24 Apr 18:28 Mono.Security.dll.o
+-rw-r--r--   1 mattias  staff   1442139 24 Apr 18:28 Mono.Security.dll.s
+-rw-r--r--   1 mattias  staff      5480 24 Apr 18:28 Plugin.Geolocator.Abstractions.aotdata.arm64
+-rw-r--r--   1 mattias  staff     37400 24 Apr 18:28 Plugin.Geolocator.Abstractions.dll.o
+-rw-r--r--   1 mattias  staff    134680 24 Apr 18:28 Plugin.Geolocator.Abstractions.dll.s
+-rw-r--r--   1 mattias  staff     32456 24 Apr 18:28 Plugin.Geolocator.aotdata.arm64
+-rw-r--r--   1 mattias  staff    181504 24 Apr 18:28 Plugin.Geolocator.dll.o
+-rw-r--r--   1 mattias  staff    652996 24 Apr 18:28 Plugin.Geolocator.dll.s
+-rw-r--r--   1 mattias  staff    639520 24 Apr 18:28 System.Xml.aotdata.arm64
+-rw-r--r--   1 mattias  staff   2933400 24 Apr 18:28 System.Xml.dll.o
+-rw-r--r--   1 mattias  staff  10588907 24 Apr 18:28 System.Xml.dll.s
+-rw-r--r--   1 mattias  staff    608816 24 Apr 18:28 System.aotdata.arm64
+-rw-r--r--   1 mattias  staff   2855764 24 Apr 18:28 System.dll.o
+-rw-r--r--   1 mattias  staff  10201393 24 Apr 18:28 System.dll.s
+-rw-r--r--   1 mattias  staff    282576 24 Apr 18:28 Xamarin.iOS.aotdata.arm64
+-rw-r--r--   1 mattias  staff   1447292 24 Apr 18:28 Xamarin.iOS.dll.o
+-rw-r--r--   1 mattias  staff   5142639 24 Apr 18:28 Xamarin.iOS.dll.s
+-rwxr-xr-x   1 mattias  staff    179944 24 Apr 18:28 libFiskedags.exe.dylib
+-rwxr-xr-x   1 mattias  staff    382192 24 Apr 18:28 libMono.Security.dll.dylib
+-rwxr-xr-x   1 mattias  staff     72876 24 Apr 18:28 libPlugin.Geolocator.Abstractions.dll.dylib
+-rwxr-xr-x   1 mattias  staff    225700 24 Apr 18:28 libPlugin.Geolocator.dll.dylib
+-rwxr-xr-x   1 mattias  staff   2633776 24 Apr 18:28 libSystem.Xml.dll.dylib
+-rwxr-xr-x   1 mattias  staff   2608188 24 Apr 18:28 libSystem.dll.dylib
+-rwxr-xr-x   1 mattias  staff   1273124 24 Apr 18:28 libXamarin.iOS.dll.dylib
+-rwxr-xr-x   1 mattias  staff   6283232 24 Apr 18:28 libmscorlib.dll.dylib
+-rw-r--r--   1 mattias  staff      2381 24 Apr 18:28 main.m
+-rw-r--r--   1 mattias  staff     10432 24 Apr 18:28 main.o
+-rw-r--r--   1 mattias  staff   1421840 24 Apr 18:28 mscorlib.aotdata.arm64
+-rw-r--r--   1 mattias  staff   6674264 24 Apr 18:28 mscorlib.dll.o
+-rw-r--r--   1 mattias  staff  23752208 24 Apr 18:28 mscorlib.dll.s
+-rw-r--r--   1 mattias  staff    179996 24 Apr 18:28 registrar.o
+
+./Fiskedags/obj/iPhone/Debug/ibtool:
+total 8
+drwxr-xr-x   3 mattias  staff    96 24 Apr 16:06 .
+drwxr-xr-x  13 mattias  staff   416 24 Apr 18:26 ..
+-rw-r--r--   1 mattias  staff  1917 10 Mar  2017 _BundleResourceWithLogicalName.items
+
+./Fiskedags/obj/iPhoneSimulator:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x   5 mattias  staff  160 24 Apr 18:19 ..
+drwxr-xr-x  16 mattias  staff  512 24 Apr 16:06 Debug
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:06 Release
+
+./Fiskedags/obj/iPhoneSimulator/Debug:
+total 176
+drwxr-xr-x  16 mattias  staff    512 24 Apr 16:06 .
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff      0 24 Apr 16:06 Fiskedags.csproj.CopyComplete
+-rw-r--r--   1 mattias  staff     41 24 Apr 16:06 Fiskedags.csproj.CoreCompileInputs.cache
+-rw-r--r--   1 mattias  staff   3020 24 Apr 16:06 Fiskedags.csproj.FileListAbsolute.txt
+-rw-r--r--   1 mattias  staff  27140 24 Apr 16:06 Fiskedags.csprojResolveAssemblyReference.cache
+-rwxr-xr-x   1 mattias  staff  24064 24 Apr 16:06 Fiskedags.exe
+-rw-r--r--   1 mattias  staff   8222  9 Mar  2017 Fiskedags.exe.mdb
+-rw-r--r--   1 mattias  staff   9948 24 Apr 16:06 Fiskedags.pdb
+drwxr-xr-x   7 mattias  staff    224 24 Apr 16:06 actool
+drwxr-xr-x   3 mattias  staff     96 24 Apr 16:06 device-builds
+drwxr-xr-x   5 mattias  staff    160 24 Apr 16:06 ibtool
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 ibtool-link
+drwxr-xr-x   5 mattias  staff    160 24 Apr 16:06 ibtool-manifests
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 mtouch-cache
+-rw-r--r--   1 mattias  staff    274  9 Mar  2017 mtouch-symbols.list
+
+./Fiskedags/obj/iPhoneSimulator/Debug/actool:
+total 32
+drwxr-xr-x   7 mattias  staff  224 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff  512 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff  138  9 Mar  2017 _BundleResourceWithLogicalName.items
+-rw-r--r--   1 mattias  staff  241  9 Mar  2017 _PartialAppManifest.items
+-rw-r--r--   1 mattias  staff  416  9 Mar  2017 asset-manifest.plist
+drwxr-xr-x   2 mattias  staff   64 24 Apr 16:06 bundle
+-rw-r--r--   1 mattias  staff  181  9 Mar  2017 partial-info.plist
+
+./Fiskedags/obj/iPhoneSimulator/Debug/actool/bundle:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  7 mattias  staff  224 24 Apr 16:06 ..
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff  512 24 Apr 16:06 ..
+drwxr-xr-x   9 mattias  staff  288 24 Apr 16:06 iphone10.3-11.3
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3:
+total 8
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:06 ..
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:07 actool
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 coremlc
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 ibtool
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 ibtool-link
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 ibtool-manifests
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:07 mtouch-cache
+-rw-r--r--  1 mattias  staff  161 24 Apr 16:06 mtouch-symbols.list
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool:
+total 32
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:07 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  138 24 Apr 16:06 _BundleResourceWithLogicalName.items
+-rw-r--r--  1 mattias  staff  271 24 Apr 16:06 _PartialAppManifest.items
+-rw-r--r--  1 mattias  staff  445 24 Apr 16:06 asset-manifest.plist
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:07 bundle
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:07 cloned-assets
+-rw-r--r--  1 mattias  staff  181 24 Apr 16:06 partial-info.plist
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/bundle:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:07 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:07 ..
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/cloned-assets:
+total 0
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:07 .
+drwxr-xr-x  8 mattias  staff  256 24 Apr 16:07 ..
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 Assets.xcassets
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/cloned-assets/Assets.xcassets:
+total 8
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 .
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:07 ..
+drwxr-xr-x  3 mattias  staff   96 24 Apr 16:07 AppIcon.appiconset
+-rw-r--r--  1 mattias  staff   65  9 Mar  2017 Contents.json
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 mattias  staff    96 24 Apr 16:07 .
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:07 ..
+-rw-r--r--  1 mattias  staff  2641  9 Mar  2017 Contents.json
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc:
+total 16
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  138 24 Apr 16:06 _BundleResourceWithLogicalName.items
+-rw-r--r--  1 mattias  staff  138 24 Apr 16:06 _PartialAppManifest.items
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool:
+total 8
+drwxr-xr-x  5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff   288 24 Apr 16:06 ..
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 LaunchScreen.storyboardc
+	com.apple.FinderInfo	  32 
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 Main.storyboardc
+	com.apple.FinderInfo	  32 
+-rw-r--r--  1 mattias  staff  2805 24 Apr 16:06 _BundleResourceWithLogicalName.items
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  1790 24 Apr 16:06 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--  1 mattias  staff   832 24 Apr 16:06 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  5341 24 Apr 16:06 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--  1 mattias  staff   964 24 Apr 16:06 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool-link:
+total 0
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:07 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+drwxr-xr-x@ 5 mattias  staff  160 24 Apr 16:06 LaunchScreen.storyboardc
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@ 5 mattias  staff  160 24 Apr 16:06 Main.storyboardc
+	com.apple.FinderInfo	 32 
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool-link/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:07 ..
+-rw-r--r--  1 mattias  staff  1790 24 Apr 16:06 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--  1 mattias  staff   832 24 Apr 16:06 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool-link/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160 24 Apr 16:06 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:07 ..
+-rw-r--r--  1 mattias  staff  5341 24 Apr 16:06 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258 24 Apr 16:06 Info.plist
+-rw-r--r--  1 mattias  staff   964 24 Apr 16:06 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool-manifests:
+total 16
+drwxr-xr-x  5 mattias  staff  160 24 Apr 16:06 .
+drwxr-xr-x  9 mattias  staff  288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  352 24 Apr 16:06 LaunchScreen.storyboardc
+-rw-r--r--  1 mattias  staff  352 24 Apr 16:06 Main.storyboardc
+-rw-r--r--  1 mattias  staff    0 24 Apr 16:06 link
+
+./Fiskedags/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/mtouch-cache:
+total 56
+drwxr-xr-x  5 mattias  staff    160 24 Apr 16:07 .
+drwxr-xr-x  9 mattias  staff    288 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  19306 24 Apr 16:06 arguments
+-rw-r--r--  1 mattias  staff   1383 24 Apr 16:06 assembly-references.txt
+-rw-r--r--  1 mattias  staff    209 24 Apr 16:06 entry-points.txt
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool:
+total 8
+drwxr-xr-x   5 mattias  staff   160 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff   512 24 Apr 16:06 ..
+drwxr-xr-x@  5 mattias  staff   160  9 Mar  2017 LaunchScreen.storyboardc
+	com.apple.FinderInfo	  32 
+drwxr-xr-x@  5 mattias  staff   160  9 Mar  2017 Main.storyboardc
+	com.apple.FinderInfo	  32 
+-rw-r--r--   1 mattias  staff  1833  9 Mar  2017 _BundleResourceWithLogicalName.items
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  1791  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  5 mattias  staff   160 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  4962  9 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   964  9 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool-link:
+total 0
+drwxr-xr-x   4 mattias  staff  128 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff  512 24 Apr 16:06 ..
+drwxr-xr-x@  5 mattias  staff  160  9 Mar  2017 LaunchScreen.storyboardc
+	com.apple.FinderInfo	 32 
+drwxr-xr-x@  5 mattias  staff  160  9 Mar  2017 Main.storyboardc
+	com.apple.FinderInfo	 32 
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool-link/LaunchScreen.storyboardc:
+total 24
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  1791  9 Mar  2017 01J-lp-oVM-view-Ze5-6b-2t3.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   832  9 Mar  2017 UIViewController-01J-lp-oVM.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool-link/Main.storyboardc:
+total 32
+drwxr-xr-x@ 5 mattias  staff   160  9 Mar  2017 .
+	com.apple.FinderInfo	  32 
+drwxr-xr-x  4 mattias  staff   128 24 Apr 16:06 ..
+-rw-r--r--  1 mattias  staff  4962  9 Mar  2017 BYZ-38-t0r-view-8bC-Xf-vdC.nib
+-rw-r--r--  1 mattias  staff   258  9 Mar  2017 Info.plist
+-rw-r--r--  1 mattias  staff   964  9 Mar  2017 UIViewController-BYZ-38-t0r.nib
+
+./Fiskedags/obj/iPhoneSimulator/Debug/ibtool-manifests:
+total 16
+drwxr-xr-x   5 mattias  staff  160 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff  512 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff  352  9 Mar  2017 LaunchScreen.storyboardc
+-rw-r--r--   1 mattias  staff  352  9 Mar  2017 Main.storyboardc
+-rw-r--r--   1 mattias  staff    0  9 Mar  2017 link
+
+./Fiskedags/obj/iPhoneSimulator/Debug/mtouch-cache:
+total 48
+drwxr-xr-x   4 mattias  staff    128 24 Apr 16:06 .
+drwxr-xr-x  16 mattias  staff    512 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff  19001  9 Mar  2017 arguments
+-rw-r--r--   1 mattias  staff    131  9 Mar  2017 entry-points.txt
+
+./Fiskedags/obj/iPhoneSimulator/Release:
+total 0
+drwxr-xr-x  2 mattias  staff   64 24 Apr 16:06 .
+drwxr-xr-x  4 mattias  staff  128 24 Apr 16:06 ..
+
+./packages:
+total 0
+drwxr-xr-x   3 mattias  staff   96 24 Apr 16:15 .
+drwxr-xr-x  10 mattias  staff  320 24 Apr 18:33 ..
+drwxr-xr-x   5 mattias  staff  160 24 Apr 16:06 Xam.Plugin.Geolocator.3.0.4
+
+./packages/Xam.Plugin.Geolocator.3.0.4:
+total 344
+drwxr-xr-x   5 mattias  staff     160 24 Apr 16:06 .
+drwxr-xr-x   3 mattias  staff      96 24 Apr 16:15 ..
+-rw-r--r--   1 mattias  staff  169144  9 Mar  2017 Xam.Plugin.Geolocator.3.0.4.nupkg
+drwxr-xr-x  11 mattias  staff     352 24 Apr 16:06 lib
+-rw-r--r--   1 mattias  staff    2285  1 Feb  2016 readme.txt
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib:
+total 0
+drwxr-xr-x  11 mattias  staff  352 24 Apr 16:06 .
+drwxr-xr-x   5 mattias  staff  160 24 Apr 16:06 ..
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 MonoAndroid10
+drwxr-xr-x   6 mattias  staff  192 24 Apr 16:06 MonoTouch10
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 UAP10
+drwxr-xr-x   6 mattias  staff  192 24 Apr 16:06 Xamarin.iOS10
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 net45
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 win8
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 wp8
+drwxr-xr-x   8 mattias  staff  256 24 Apr 16:06 wpa81
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/MonoAndroid10:
+total 216
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  23040  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  38400  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   3010  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/MonoTouch10:
+total 88
+drwxr-xr-x   6 mattias  staff    192 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/UAP10:
+total 176
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  14848  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  28160  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/Xamarin.iOS10:
+total 88
+drwxr-xr-x   6 mattias  staff    192 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  16896  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/net45:
+total 144
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff   8192  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   3379  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10:
+total 136
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff   6144  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  13824  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff    495  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/win8:
+total 176
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  14848  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  28160  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/wp8:
+total 176
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  13824  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  26112  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   2161  1 Feb  2016 Plugin.Geolocator.xml
+
+./packages/Xam.Plugin.Geolocator.3.0.4/lib/wpa81:
+total 176
+drwxr-xr-x   8 mattias  staff    256 24 Apr 16:06 .
+drwxr-xr-x  11 mattias  staff    352 24 Apr 16:06 ..
+-rw-r--r--   1 mattias  staff   9216  1 Feb  2016 Plugin.Geolocator.Abstractions.dll
+-rw-r--r--   1 mattias  staff  17920  1 Feb  2016 Plugin.Geolocator.Abstractions.pdb
+-rw-r--r--   1 mattias  staff   7638  1 Feb  2016 Plugin.Geolocator.Abstractions.xml
+-rw-r--r--   1 mattias  staff  14848  1 Feb  2016 Plugin.Geolocator.dll
+-rw-r--r--   1 mattias  staff  28160  1 Feb  2016 Plugin.Geolocator.pdb
+-rw-r--r--   1 mattias  staff   2423  1 Feb  2016 Plugin.Geolocator.xml
